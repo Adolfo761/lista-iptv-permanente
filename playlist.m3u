@@ -5181,3 +5181,9 @@ http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/162020
 http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/162019
 #EXTINF:-1 tvg-id="STSInternational.ru@SD" tvg-logo="https://i.imgur.com/mwiC0RG.png" group-title="📺 TV: VARIOS",СТС International
 https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+
+#EXTINF:-1 group-title="DOMINICANA" tvg-logo="https://i.imgur.com/Q6kL9h8.png",Telenord Canal 8
+https://fox.hostlagarto.com:8081/telenord8/index.m3u8
+
+#EXTINF:-1 group-title="DOMINICANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Color_Vision_Canal_9_Logo_2016.png/640px-Color_Vision_Canal_9_Logo_2016.png",Color Visión Canal 9
+http://200.125.170.122:8000/play/a0dk/index.m3u8
