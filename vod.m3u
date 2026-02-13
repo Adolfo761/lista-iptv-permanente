@@ -1,136 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="24/7 Series Narcos - Sobreviviendo a Escobar, Alias JJ (e)(720)" tvg-logo="" group-title="VOD: OTROS / SIN CLASIFICAR",24/7 Series Narcos - Sobreviviendo a Escobar, Alias JJ (e)(720)
 http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/165080
-#EXTINF:-1 tvg-id="24/7 Series Comedias - The Big Bang Theory: Parte 2 (e)(1080)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/dym18Te4gTN5BYqyXChEvMfy0wQ.jpg" group-title="PELICULAS: GENERAL",24/7 Series Comedias - The Big Bang Theory: Parte 2 (e)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/166305
-#EXTINF:-1 tvg-id="24/7 Series Narcos - El Chapo (e)(1080)(Dual)" tvg-logo="" group-title="PELICULAS: GENERAL",24/7 Series Narcos - El Chapo (e)(1080)(Dual)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/165069
-#EXTINF:-1 tvg-id="24/7 Series Narcos - El Chema (e)(1080)(Dual)" tvg-logo="" group-title="PELICULAS: GENERAL",24/7 Series Narcos - El Chema (e)(1080)(Dual)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/165070
-#EXTINF:-1 tvg-id="CINE - A&E (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" group-title="PELICULAS: GENERAL",CINE - A&E (L)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9614
-#EXTINF:-1 tvg-id="CINE - A&E (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" group-title="PELICULAS: GENERAL",CINE - A&E (M)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9615
-#EXTINF:-1 tvg-id="CINE - A&E (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" group-title="PELICULAS: GENERAL",CINE - A&E (Z)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9616
-#EXTINF:-1 tvg-id="CINE - A3 Series (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-nYXXZBWn3K8/Xbf03udfliI/AAAAAAAAAuQ/TbR_EaUFPp4owroSxx09nXC7CHvvW1q0ACLcBGAsYHQ/s200/58.png" group-title="PELICULAS: GENERAL",CINE - A3 Series (M)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9618
-#EXTINF:-1 tvg-id="CINE - AXN (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" group-title="PELICULAS: GENERAL",CINE - AXN (M)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9623
-#EXTINF:-1 tvg-id="CINE - AXN (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" group-title="PELICULAS: GENERAL",CINE - AXN (Z)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9625
-#EXTINF:-1 tvg-id="CINE - Cinemax (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-SWgMvQVmNFs/XatKBoFk9XI/AAAAAAAAAcE/iIZCNfcElxsfxcj0hGdLxHZ0l7D7wRJ6wCLcBGAsYHQ/s200/43.png" group-title="PELICULAS: GENERAL",CINE - Cinemax (M)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9633
-#EXTINF:-1 tvg-id="CINE - Cinemax (Z)(1080)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTapWv0ZtvCDDJbWxrh_B-9xTzIpgcamrL0Hl7QU6_hzmT9YorrLtKqi1KOf99Rdj2fjZU&usqp=CAU" group-title="PELICULAS: GENERAL",CINE - Cinemax (Z)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9635
-#EXTINF:-1 tvg-id="CINE - Comedy Central (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-EGNc3XiW2mg/Xaoka4Z2TQI/AAAAAAAAAWU/WzeyBpAFtHw2hkqTpQi6FZCazB0eVIlHACLcBGAsYHQ/s200/7.png" group-title="PELICULAS: GENERAL",CINE - Comedy Central (L)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9636
-#EXTINF:-1 tvg-id="CINE - DHE (TV)(1080)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1200px-Canal_DHE_logo.svg.png" group-title="PELICULAS: GENERAL",CINE - DHE (TV)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9643
-#EXTINF:-1 tvg-id="CINE - De Pelicula (M)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/f7177163c833dff4b38fc8d2872f1ec6.png" group-title="PELICULAS: GENERAL",CINE - De Pelicula (M)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9638
-#EXTINF:-1 tvg-id="CINE - De Pelicula Plus (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png" group-title="PELICULAS: GENERAL",CINE - De Pelicula Plus (M)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9639
-#EXTINF:-1 tvg-id="CINE - De Película (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png" group-title="PELICULAS: GENERAL",CINE - De Película (TV)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9642
-#EXTINF:-1 tvg-id="CINE - Distrito Comedia (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-beLeA0PDR3M/XatLcKHkHhI/AAAAAAAAAcY/qDSVdbA5CVwlSBEJV_XDE08auVkEZleBwCLcBGAsYHQ/s200/45.png" group-title="PELICULAS: GENERAL",CINE - Distrito Comedia (L)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9644
-#EXTINF:-1 tvg-id="CINE - E! (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-8Sj9qIuwrcY/Xbft9AfFG8I/AAAAAAAAAtE/IsyxPWzh5n0sYocYCV7ebne0xlAeANvNgCLcBGAsYHQ/s200/54.png" group-title="PELICULAS: GENERAL",CINE - E! (M)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9646
-#EXTINF:-1 tvg-id="CINE - El Gourmet (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-CBdE6D49lec/XdtQjO47pYI/AAAAAAAAA3M/6wPiW4palq8OIODpugRUzyKO4LHK6Kl1wCLcBGAsYHQ/s200/21.png" group-title="PELICULAS: GENERAL",CINE - El Gourmet (M)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9647
-#EXTINF:-1 tvg-id="CINE - Europa Europa (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-hp_TVEc208E/Xg-BsZUcaKI/AAAAAAAAA48/eXROhRPKdKop12SD74yIK-zUaK-OZr_tACLcBGAsYHQ/s200/64.png" group-title="PELICULAS: GENERAL",CINE - Europa Europa (M)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9648
-#EXTINF:-1 tvg-id="CINE - FX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-MUjPzmbITqs/XatNGMM5_FI/AAAAAAAAAc0/KlUpHFhNkGMPz9cyXVoNYm_yJ-RU4LMSwCLcBGAsYHQ/s200/46.png" group-title="PELICULAS: GENERAL",CINE - FX (M)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9653
-#EXTINF:-1 tvg-id="CINE - FX (Z)(1080)" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/07/fx.jpg" group-title="PELICULAS: GENERAL",CINE - FX (Z)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9654
-#EXTINF:-1 tvg-id="CINE - Film & Arts (Z)(1080)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNpsw81Sk4WqgDl5Pk0BZWu7740GNi_mEAtw&usqp=CAU" group-title="PELICULAS: GENERAL",CINE - Film & Arts (Z)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9649
-#EXTINF:-1 tvg-id="CINE - Filmex (Z)(1080)" tvg-logo="" group-title="PELICULAS: GENERAL",CINE - Filmex (Z)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9640
-#EXTINF:-1 tvg-id="CINE - Filmex Clasico (Z)(1080)" tvg-logo="" group-title="PELICULAS: GENERAL",CINE - Filmex Clasico (Z)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9641
-#EXTINF:-1 tvg-id="CINE - Food Network (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-7LnO12UdM74/XkOMWms5SLI/AAAAAAAABWw/1_TuyGdHKgUvadJu2umfY-JB3zGZvdzqQCLcBGAsYHQ/s200/68.png" group-title="PELICULAS: GENERAL",CINE - Food Network (M)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9651
-#EXTINF:-1 tvg-id="CINE - Golden (Z)(1080)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="PELICULAS: GENERAL",CINE - Golden (Z)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9657
-#EXTINF:-1 tvg-id="CINE - Golden Edge (Z)(1080)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Golden_Edge_2016.png/revision/latest/scale-to-width-down/310?cb=20191215195803&path-prefix=es" group-title="PELICULAS: GENERAL",CINE - Golden Edge (Z)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9659
-#EXTINF:-1 tvg-id="CINE - Golden Plus (M)(1080) [Dual Audio]" tvg-logo="https://1.bp.blogspot.com/-xAsbQLg2Jh4/XatB0liBxTI/AAAAAAAAAaw/0DJSM8f-dGYbfmZhsUXXGokODQRxIrpXwCLcBGAsYHQ/s200/35.png" group-title="PELICULAS: GENERAL",CINE - Golden Plus (M)(1080) [Dual Audio]
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9661
-#EXTINF:-1 tvg-id="CINE - Golden Plus (Z)(1080)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfPAfYQMBjlLveOOYfg-4RSj7VSTmctWclQ&usqp=CAU" group-title="PELICULAS: GENERAL",CINE - Golden Plus (Z)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9662
-#EXTINF:-1 tvg-id="CINE - Golden Premiere (M)(1080) [Dual Audio]" tvg-logo="https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png" group-title="PELICULAS: GENERAL",CINE - Golden Premiere (M)(1080) [Dual Audio]
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9664
-#EXTINF:-1 tvg-id="CINE - HBO (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="PELICULAS: GENERAL",CINE - HBO (M)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9666
-#EXTINF:-1 tvg-id="CINE - HBO (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="PELICULAS: GENERAL",CINE - HBO (TV)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9668
-#EXTINF:-1 tvg-id="CINE - HBO 2 (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="PELICULAS: GENERAL",CINE - HBO 2 (TV)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9673
-#EXTINF:-1 tvg-id="CINE - HBO 2 (Z)(1080)" tvg-logo="https://www.shopfortaleza.com.br/wp-content/uploads/2019/02/HBO2.jpg" group-title="PELICULAS: GENERAL",CINE - HBO 2 (Z)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9675
-#EXTINF:-1 tvg-id="CINE - HBO Family (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="PELICULAS: GENERAL",CINE - HBO Family (L)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9676
-#EXTINF:-1 tvg-id="CINE - HBO Family (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="PELICULAS: GENERAL",CINE - HBO Family (TV)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9678
-#EXTINF:-1 tvg-id="CINE - HBO POP (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" group-title="PELICULAS: GENERAL",CINE - HBO POP (M)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9689
-#EXTINF:-1 tvg-id="CINE - HBO Plus (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="PELICULAS: GENERAL",CINE - HBO Plus (M)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9685
-#EXTINF:-1 tvg-id="CINE - HBO Plus (Z)(1080)" tvg-logo="http://cineparallevar.mx/admin/wp-content/uploads/2017/10/copypasteimage-4.jpg" group-title="PELICULAS: GENERAL",CINE - HBO Plus (Z)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9688
-#EXTINF:-1 tvg-id="CINE - HBO Xtreme (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="PELICULAS: GENERAL",CINE - HBO Xtreme (M)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9698
-#EXTINF:-1 tvg-id="CINE - HBO. 2 (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="PELICULAS: GENERAL",CINE - HBO. 2 (TV)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9672
-#EXTINF:-1 tvg-id="CINE - Lifetime (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-iMAi_8FJwwQ/XatGmhKYmbI/AAAAAAAAAbQ/0z9DR3Ur5KYfsAzeHVCogx2jNUubeChrACLcBGAsYHQ/s200/37.png" group-title="PELICULAS: GENERAL",CINE - Lifetime (M)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9703
-#EXTINF:-1 tvg-id="CINE - STAR Channel CO (M)(1080) [Dual Audio]" tvg-logo="https://lh3.googleusercontent.com/-yvtMpSceSWI/Yf9U8n6XN7I/AAAAAAAADGQ/HQ7NWPvhrwkmM8sQxwUZ3kRyu1u0iyIOgCNcBGAsYHQ/w200-h200/1644123375803213-1.png" group-title="PELICULAS: GENERAL",CINE - STAR Channel CO (M)(1080) [Dual Audio]
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9721
-#EXTINF:-1 tvg-id="CINE - STAR Channel MX (L)(1080)" tvg-logo="https://lh3.googleusercontent.com/-yvtMpSceSWI/Yf9U8n6XN7I/AAAAAAAADGQ/HQ7NWPvhrwkmM8sQxwUZ3kRyu1u0iyIOgCNcBGAsYHQ/w200-h200/1644123375803213-1.png" group-title="PELICULAS: GENERAL",CINE - STAR Channel MX (L)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9723
-#EXTINF:-1 tvg-id="CINE - Showtime West Dual (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-1CyRY6HMjJE/XxCHEUy_trI/AAAAAAAAAbg/g0eCuMarEbA_5d3m7g468QjwKuXA91EjgCLcBGAsYHQ/w200-h200/Showtime%2BWEST.png" group-title="PELICULAS: GENERAL",CINE - Showtime West Dual (M)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9710
-#EXTINF:-1 tvg-id="CINE - Sony Channel (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-Ess4VrXYpAQ/XatGnkceQRI/AAAAAAAAAbc/OqfYrJcB2UcrnplBlalhQncSDVbKkP2fwCLcBGAsYHQ/s200/41.png" group-title="PELICULAS: GENERAL",CINE - Sony Channel (L)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9711
-#EXTINF:-1 tvg-id="CINE - Sony Channel (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-Ess4VrXYpAQ/XatGnkceQRI/AAAAAAAAAbc/OqfYrJcB2UcrnplBlalhQncSDVbKkP2fwCLcBGAsYHQ/s200/41.png" group-title="PELICULAS: GENERAL",CINE - Sony Channel (M)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9712
-#EXTINF:-1 tvg-id="CINE - Sony Cine (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-pDZUOqatcCc/YDSFENFbt6I/AAAAAAAACFk/aG-Brvhw2Hoz5IsWO5eyTJtIdk3FqDS7wCLcBGAsYHQ/w200-h200/Sony.png" group-title="PELICULAS: GENERAL",CINE - Sony Cine (M)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9713
-#EXTINF:-1 tvg-id="CINE - Space (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-6wvhPq5IaU0/XatGn62vaSI/AAAAAAAAAbg/Ag7mkwAVGCM4eBE7PoLyqAUwkyHiFFAIwCLcBGAsYHQ/s200/42.png" group-title="PELICULAS: GENERAL",CINE - Space (TV)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9717
-#EXTINF:-1 tvg-id="CINE - Star TVE (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-Ru5-dc21HTI/Xmvz5ztZLnI/AAAAAAAABZs/25I5OIJh_tEoTM5rCvQfFtj83-GqrI_fwCLcBGAsYHQ/s200/71.png" group-title="PELICULAS: GENERAL",CINE - Star TVE (M)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9726
-#EXTINF:-1 tvg-id="CINE - Starz Family (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-eEgFDxMCYm8/Xbf6BQ5kAxI/AAAAAAAAAvQ/dtgBpkQi2Yg_N2MrsCndofbWOjPmk4ywQCLcBGAsYHQ/s200/61.png" group-title="PELICULAS: GENERAL",CINE - Starz Family (M)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9731
-#EXTINF:-1 tvg-id="CINE - Studio Universal (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-Mm4RcdZlydc/XatpNZ2eSDI/AAAAAAAAAek/B1kOZW_TEv0GakL-m6tUYEmi592FBiSEQCLcBGAsYHQ/s200/52.png" group-title="PELICULAS: GENERAL",CINE - Studio Universal (M)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9732
-#EXTINF:-1 tvg-id="CINE - TCM (Z)(1080)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="PELICULAS: GENERAL",CINE - TCM (Z)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9741
-#EXTINF:-1 tvg-id="CINE - TNT (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png" group-title="PELICULAS: GENERAL",CINE - TNT (M)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9743
-#EXTINF:-1 tvg-id="CINE - TNT (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png" group-title="PELICULAS: GENERAL",CINE - TNT (TV)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9745
-#EXTINF:-1 tvg-id="CINE - TNT Novelas  (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-GuBKhe6BjNU/XaqbhYUEY9I/AAAAAAAAZU/GoNTclP8BQYz3LWW1FRbP0e_zV7-V_bNACLcBGAsYHQ/s200/28.png" group-title="PELICULAS: GENERAL",CINE - TNT Novelas  (M)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9747
-#EXTINF:-1 tvg-id="CINE - TNT Series (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-RU1QI0P40Bk/XaqXTmeUMsI/AAAAAAAAAYo/mKi7kYCtzykrjx76Ft-YMnk17IS3OdK0QCLcBGAsYHQ/s200/25.png" group-title="PELICULAS: GENERAL",CINE - TNT Series (M)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9749
-#EXTINF:-1 tvg-id="CINE - Universal Channel (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-wIjU7SeLay0/XatoZA--t0I/AAAAAAAAAec/HbZ16hL1yKohaQDAxLTlqls-Sd6OVf2LQCLcBGAsYHQ/s200/51.png" group-title="PELICULAS: GENERAL",CINE - Universal Channel (M)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9755
-#EXTINF:-1 tvg-id="CINE - Universal Cinema (M)(1080) [Dual Audio]" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="PELICULAS: GENERAL",CINE - Universal Cinema (M)(1080) [Dual Audio]
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9757
-#EXTINF:-1 tvg-id="CINE - Universal Premier (M)(1080) [Dual Audio]" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png" group-title="PELICULAS: GENERAL",CINE - Universal Premier (M)(1080) [Dual Audio]
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9766
-#EXTINF:-1 tvg-id="CINE - Universal Reality (M)(1080)" tvg-logo="https://lh3.googleusercontent.com/-jrUcCNjGjiA/YgMWDP_MqhI/AAAAAAAADNk/hSVW-HGIAE8x-ESHmjGqeoP3TZYwU1V9wCNcBGAsYHQ/w200-h200/1644369417411612-1.png" group-title="PELICULAS: GENERAL",CINE - Universal Reality (M)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9771
-#EXTINF:-1 tvg-id="CINE - Warner Channel (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png" group-title="PELICULAS: GENERAL",CINE - Warner Channel (L)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9774
-#EXTINF:-1 tvg-id="CINE - Warner Channel Dual Audio (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png" group-title="PELICULAS: GENERAL",CINE - Warner Channel Dual Audio (M)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9775
-#EXTINF:-1 tvg-id="DOC-Comedy Central (Z)(1080)." tvg-logo="https://static.epg.best/mx/ComedyCentral.mx.png" group-title="PELICULAS: GENERAL",DOC-Comedy Central (Z)(1080).
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9781
 #EXTINF:-1 tvg-id="21 Sextreme - La caliente Nikki Fox en contenido de mamadas" tvg-logo="None" group-title="ZONA ADULTOS (+18) 🔞",21 Sextreme - La caliente Nikki Fox en contenido de mamadas
 http://live.proyectoxpro.com:8080/movie/vasqueznestor1/cdKvFeY4RK/172450.mp4
 #EXTINF:-1 tvg-id="21 Sextreme - Película con la destacada Renata Fox con vaquera de 21 Sextreme" tvg-logo="None" group-title="ZONA ADULTOS (+18) 🔞",21 Sextreme - Película con la destacada Renata Fox con vaquera de 21 Sextreme
@@ -1035,24 +905,6 @@ http://live.proyectoxpro.com:8080/movie/vasqueznestor1/cdKvFeY4RK/2101.avi
 http://15.235.51.60/contenido/peliculas/Arthur%20Una%20amistad%20sin%20l%C3%ADmites/Arthur%20Una%20amistad%20sin%20l%C3%ADmites%20(2024)%201080p%20WEB-DL%20Latino.mp4
 #EXTINF:-1 group-title="PELICULAS: 🎬 PELÍCULAS General" tvg-logo="", Stagecoach (1966) [Latino]
 http://15.235.51.60/contenido/peliculas/Stagecoach/Stagecoach.1966.1080p.BluRay.Dual.Latino.mp4
-#EXTINF:-1 tvg-id="24/7 Cinema - HBO MAX (e)(1080)(Dual Audio)" tvg-logo="" group-title="PELICULAS: 🎬 PELÍCULAS General",24/7 Cinema - HBO MAX (e)(1080)(Dual Audio)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/164941
-#EXTINF:-1 tvg-id="24/7 Cinema - Netflix Premier 1 (e)(1080)(Dual Audio)" tvg-logo="" group-title="PELICULAS: 🎬 PELÍCULAS General",24/7 Cinema - Netflix Premier 1 (e)(1080)(Dual Audio)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/164802
-#EXTINF:-1 tvg-id="24/7 Cinema - Netflix Premier 2 (e)(1080)(Dual Audio)" tvg-logo="" group-title="PELICULAS: 🎬 PELÍCULAS General",24/7 Cinema - Netflix Premier 2 (e)(1080)(Dual Audio)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/164863
-#EXTINF:-1 tvg-id="24/7 Cinema - Netflix Premier 3 (e)(1080)(Dual Audio)" tvg-logo="" group-title="PELICULAS: 🎬 PELÍCULAS General",24/7 Cinema - Netflix Premier 3 (e)(1080)(Dual Audio)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/164864
-#EXTINF:-1 tvg-id="24/7 Cinema - Netflix Premier 4 (e)(1080)(Dual Audio)" tvg-logo="" group-title="PELICULAS: 🎬 PELÍCULAS General",24/7 Cinema - Netflix Premier 4 (e)(1080)(Dual Audio)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/164865
-#EXTINF:-1 tvg-id="24/7 Cinema - Netflix Premier 5 (e)(1080)(Dual Audio)" tvg-logo="" group-title="PELICULAS: 🎬 PELÍCULAS General",24/7 Cinema - Netflix Premier 5 (e)(1080)(Dual Audio)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/164866
-#EXTINF:-1 tvg-id="24/7 Cinema - Netflix Premier 6 (e)(1080)(Dual Audio)" tvg-logo="" group-title="PELICULAS: 🎬 PELÍCULAS General",24/7 Cinema - Netflix Premier 6 (e)(1080)(Dual Audio)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/164867
-#EXTINF:-1 tvg-id="24/7 Cinema - Netflix Premier 7 (e)(1080)(Dual Audio)" tvg-logo="" group-title="PELICULAS: 🎬 PELÍCULAS General",24/7 Cinema - Netflix Premier 7 (e)(1080)(Dual Audio)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/164868
-#EXTINF:-1 tvg-id="24/7 Cinema - Sagas: Scary Movie (e)(1080)(Dual Audio)" tvg-logo="" group-title="PELICULAS: 🎬 PELÍCULAS General",24/7 Cinema - Sagas: Scary Movie (e)(1080)(Dual Audio)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/164968
 #EXTINF:-1 tvg-id="Cinema Paradiso (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHwsr3t5n7VVUbPyU8VZswn0jkL.jpg" group-title="PELICULAS: 🎬 PELÍCULAS General",Cinema Paradiso (1988)
 http://live.proyectoxpro.com:8080/movie/vasqueznestor1/cdKvFeY4RK/2882.mkv
 #EXTINF:-1 tvg-id="Dangerous Medicine (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sy3Ac0RwYBDXHeZcGwfJmvYNXB.jpg" group-title="PELICULAS: 🎬 PELÍCULAS General",Dangerous Medicine (2021)
@@ -125396,10 +125248,6 @@ http://live.proyectoxpro.com:8080/movie/vasqueznestor1/cdKvFeY4RK/171297.mp4
 http://live.proyectoxpro.com:8080/movie/vasqueznestor1/cdKvFeY4RK/171300.mp4
 #EXTINF:-1 tvg-id="Breaking Bad Parodia XXX" tvg-logo="None" group-title="ZONA ADULTOS (+18) 🔞",Breaking Bad Parodia XXX
 http://live.proyectoxpro.com:8080/movie/vasqueznestor1/cdKvFeY4RK/10506.mp4
-#EXTINF:-1 tvg-id="CINE - CineCanal (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png" group-title="ZONA ADULTOS (+18) 🔞",CINE - CineCanal (TV)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9629
-#EXTINF:-1 tvg-id="CINE - Cinecanal (Z)(1080)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="ZONA ADULTOS (+18) 🔞",CINE - Cinecanal (Z)(1080)
-http://live.proyectoxpro.com:8080/vasqueznestor1/cdKvFeY4RK/9631
 #EXTINF:-1 tvg-id="Cam Soda - Alex Legend y Whitney OC en xxx de mamadas de Cam Soda" tvg-logo="None" group-title="ZONA ADULTOS (+18) 🔞",Cam Soda - Alex Legend y Whitney OC en xxx de mamadas de Cam Soda
 http://live.proyectoxpro.com:8080/movie/vasqueznestor1/cdKvFeY4RK/171317.mp4
 #EXTINF:-1 tvg-id="Cam Soda - Damion Dayski en pornografía de polla grande negra de Cam Soda" tvg-logo="None" group-title="ZONA ADULTOS (+18) 🔞",Cam Soda - Damion Dayski en pornografía de polla grande negra de Cam Soda
