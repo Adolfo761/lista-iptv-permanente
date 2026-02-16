@@ -2825,3 +2825,80 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 http://104.238.205.28:9090/278678_.m3u8
 #EXTINF:-1 tvg-id="WomensSportsNetwork.us@SD" tvg-logo="https://i.imgur.com/rhIwUcQ.png" group-title="TV: ⚽ DEPORTES",Women's Sports Network
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/686d8dd294a028da3ac59566/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=759bd9a9-0f95-40fc-8282-59328c811c65
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
+#EXTINF:-1 group-title="TV: 🇺🇸 USA LATINO" tvg-logo="https://i.imgur.com/Op920qA.png",Telemundo 51 Miami (WSCV) 🇺🇸
+https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
+#EXTINF:-1 group-title="TV: 🇵🇪 PERU" tvg-logo="https://i.imgur.com/Op920qA.png",Amga TV (720p) [Not 24/7]
+https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
+#EXTINF:-1 group-title="TV: 🇺🇸 USA LATINO" tvg-logo="https://i.imgur.com/Op920qA.png",CBS News Los Angeles (720p)
+https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+#EXTINF:-1 group-title="TV: 🇺🇸 USA LATINO" tvg-logo="https://i.imgur.com/Op920qA.png",Telemundo 51 Miami (WSCV) 🇺🇸
+https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
+#EXTINF:-1 group-title="TV: 🇺🇸 USA LATINO" tvg-logo="https://i.imgur.com/Op920qA.png",CBS News New York (720p)
+https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:-1 group-title="TV: 🇵🇪 PERU" tvg-logo="https://i.imgur.com/Op920qA.png",Estrella TV (1080p)
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV: 🇵🇪 PERU" tvg-logo="https://i.imgur.com/Op920qA.png",Extrema TV (720p)
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 group-title="TV: 🇵🇪 PERU" tvg-logo="https://i.imgur.com/Op920qA.png",Go USA TV (720p)
+https://brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV: 🇺🇸 USA LATINO" tvg-logo="https://i.imgur.com/Op920qA.png",KRCA-TV Estrella Los Angeles (720p)
+https://content.uplynk.com/channel/829a8c85f9e840c6bed963856c231428.m3u8
+#EXTINF:-1 group-title="TV: 🇺🇸 USA LATINO" tvg-logo="https://i.imgur.com/Op920qA.png",KVEA-DT1
+http://104.238.205.28:9090/278661_.m3u8
+#EXTINF:-1 group-title="TV: 🇺🇸 USA LATINO" tvg-logo="https://i.imgur.com/Op920qA.png",Los Angeles Local Television Channel 36 (1080p)
+https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8
+#EXTINF:-1 group-title="TV: 🇺🇸 USA LATINO" tvg-logo="https://i.imgur.com/Op920qA.png",Telemundo 51 Miami (WSCV) 🇺🇸
+https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8
+#EXTINF:-1 group-title="TV: 🇵🇪 PERU" tvg-logo="https://i.imgur.com/Op920qA.png",MTC TV
+https://mtchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="TV: 🇺🇸 USA LATINO" tvg-logo="https://i.imgur.com/Op920qA.png",News12+ New York (1080p) [Geo-blocked]
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8
+#EXTINF:-1 group-title="TV: 🇺🇸 USA LATINO" tvg-logo="https://i.imgur.com/Op920qA.png",News 12 New York
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fff49cfb5cd4f0007c2b0dc/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ba237f99-eb7c-4b1c-948f-81abc9a5ede7
+#EXTINF:-1 group-title="TV: 🇵🇪 PERU" tvg-logo="https://i.imgur.com/Op920qA.png",NHRA TV (720p)
+https://aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playlist.m3u8
+#EXTINF:-1 group-title="TV: 🇺🇸 USA LATINO" tvg-logo="https://i.imgur.com/Op920qA.png",Telemundo 51 Miami (WSCV) 🇺🇸
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/citynmb/G2044_002/playlist.m3u8
+#EXTINF:-1 group-title="TV: 🇺🇸 USA LATINO" tvg-logo="https://i.imgur.com/Op920qA.png",SportsNet New York (540p)
+http://212.102.60.231/SNY/index.m3u8
+#EXTINF:-1 group-title="TV: 🇺🇸 USA LATINO" tvg-logo="https://i.imgur.com/Op920qA.png",WABC ABC (New York NY)
+http://fl41.moveonjoy.com/NY_NEW_YORK_ABC/index.m3u8
+#EXTINF:-1 group-title="TV: 🇺🇸 USA LATINO" tvg-logo="https://i.imgur.com/Op920qA.png",Telemundo 51 Miami (WSCV) 🇺🇸
+http://fl41.moveonjoy.com/FL_Miami_CBS/index.m3u8
+#EXTINF:-1 group-title="TV: 🇺🇸 USA LATINO" tvg-logo="https://i.imgur.com/Op920qA.png",WNJU-DT1
+http://104.238.205.28:9090/278678_.m3u8
+#EXTINF:-1 group-title="TV: 🇺🇸 USA LATINO" tvg-logo="https://i.imgur.com/Op920qA.png",Telemundo 51 Miami (WSCV) 🇺🇸
+http://fl41.moveonjoy.com/FL_MIAMI_ABC/index.m3u8
+#EXTINF:-1 group-title="TV: 🇺🇸 USA LATINO" tvg-logo="https://i.imgur.com/Op920qA.png",Telemundo 51 Miami (WSCV) 🇺🇸
+http://fl41.moveonjoy.com/FL_Miami_FOX/index.m3u8
+#EXTINF:-1 group-title="TV: 🇵🇪 PERU" tvg-logo="https://i.imgur.com/Op920qA.png",ATV (720p) [Not 24/7]
+https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8
+#EXTINF:-1 group-title="TV: 🇵🇪 PERU" tvg-logo="https://i.imgur.com/Op920qA.png",ATV Sur (720p) [Not 24/7]
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="TV: 🇵🇪 PERU" tvg-logo="https://i.imgur.com/Op920qA.png",ATV+ (720p)
+https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/ts:abr.m3u8
+#EXTINF:-1 group-title="TV: 🇵🇪 PERU" tvg-logo="https://i.imgur.com/Op920qA.png",Cadena TV (720p) [Not 24/7]
+https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
+#EXTINF:-1 group-title="TV: 🇵🇪 PERU" tvg-logo="https://i.imgur.com/Op920qA.png",Controversia TV (720p) [Not 24/7]
+https://live.obslivestream.com/controversiatv/index.m3u8
+#EXTINF:-1 group-title="TV: 🇵🇪 PERU" tvg-logo="https://i.imgur.com/Op920qA.png",Exitosa TV (720p) [Not 24/7]
+https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
+#EXTINF:-1 group-title="TV: 🇵🇪 PERU" tvg-logo="https://i.imgur.com/Op920qA.png",Intuitiva TV (720p)
+https://video2.lhdserver.es/cableperu/live.m3u8
+#EXTINF:-1 group-title="TV: 🇵🇪 PERU" tvg-logo="https://i.imgur.com/Op920qA.png",La Fabulosa Radio y TV
+https://eu1.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1 group-title="TV: 🇵🇪 PERU" tvg-logo="https://i.imgur.com/Op920qA.png",Mega TV Jaen (720p) [Not 24/7]
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+#EXTINF:-1 group-title="TV: 🇵🇪 PERU" tvg-logo="https://i.imgur.com/Op920qA.png",Nativa TV Satipo (720p) [Not 24/7]
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+#EXTINF:-1 group-title="TV: 🇵🇪 PERU" tvg-logo="https://i.imgur.com/Op920qA.png",RSelvaTV
+https://live.obslivestream.com/selvatv/index.m3u8
+#EXTINF:-1 group-title="TV: 🇵🇪 PERU" tvg-logo="https://i.imgur.com/Op920qA.png",Viva TV Yurimaguas (720p)
+https://live.obslivestream.com/vivatv/index.m3u8
+#EXTINF:-1 group-title="TV: 🇵🇪 PERU" tvg-logo="https://i.imgur.com/Op920qA.png",MMA-TV.com
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+#EXTINF:-1 group-title="TV: 🇵🇪 PERU" tvg-logo="https://i.imgur.com/Op920qA.png",NHRA TV (720p)
+https://aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playlist.m3u8
+#EXTINF:-1 group-title="TV: 🇺🇸 USA LATINO" tvg-logo="https://i.imgur.com/Op920qA.png",SportsNet New York (540p)
+http://212.102.60.231/SNY/index.m3u8
