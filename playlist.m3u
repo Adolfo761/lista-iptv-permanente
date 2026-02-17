@@ -2557,3 +2557,28 @@ https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playlist.m3u8
 #EXTINF:-1 group-title="TV: 🇺🇸 USA LATINO" tvg-logo="https://i.imgur.com/Op920qA.png",SportsNet New York (540p)
 http://212.102.60.231/SNY/index.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoInternacional.us@South" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="TV: 🇺🇸 USA LATINO",✨ Telemundo Internacional (480p)
+http://190.2.212.209:8050/play/a0oa
+#EXTINF:-1 tvg-id="TelemundoCorpusChristi.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Telemundo_Corpus_Christi_logo.png" group-title="TV: 🇺🇸 USA LATINO",✨ Telemundo 47 NY (WNJU) - Alternativo
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+#EXTINF:-1 tvg-id="WKAQDT1.pr@SD" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="TV: 🇺🇸 USA LATINO",✨ Telemundo PR (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="TelemundoAlDia.us@HD" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/telemundo_al_dia_1000x1500_2x3_logo_300dpi_vertical_full_color_logo_xumo-3-copy.png" group-title="TV: 🇺🇸 USA LATINO",✨ Telemundo Al Dia
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="TV: 🎬 CINE",✨ HBO (Alternativo)
+http://170.82.37.21:8000/play/a02g/index.m3u8
+#EXTINF:-1 tvg-id="UniversalTV" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="TV: 🎬 CINE",✨ Universal TV (Alternativo)
+http://170.82.37.21:8000/play/a03m/index.m3u8
+#EXTINF:-1 tvg-id="A24.ar@SD" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="TV: 🇦🇷 ARGENTINA",✨ A24 (720p)
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="TV: 🇦🇷 ARGENTINA",✨ Canal 26 (1080p)
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="TV: 🇦🇷 ARGENTINA",✨ El Trece (1080p)
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="TV: 🇦🇷 ARGENTINA",✨ Telefe (720p)
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="TV: 🧠 CULTURA",✨ Discovery Channel (Alternativo)
+http://170.82.37.21:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="History" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="TV: 🧠 CULTURA",✨ History Channel (Alternativo)
+http://170.82.37.21:8000/play/a01f/index.m3u8
