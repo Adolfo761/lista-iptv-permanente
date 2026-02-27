@@ -1,0 +1,69 @@
+# ============================================================
+# auditoria_masiva.yml
+# Workflow MANUAL: Auditoría asíncrona completa de VOD y Live
+# Activación: Solo mediante workflow_dispatch (disparo manual)
+# ============================================================
+
+name: "🔍 Auditoría Masiva VOD + Live (Manual)"
+
+on:
+  workflow_dispatch:
+    inputs:
+      descripcion:
+        description: "Motivo de la auditoría (opcional)"
+        required: false
+        default: "Auditoría manual de rutina"
+
+permissions:
+  contents: write
+
+jobs:
+  auditoria-masiva:
+    name: "Auditar y limpiar vod.m3u → playlist.m3u"
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      # ── 1. Clonar repositorio ──────────────────────────────
+      - name: "📥 Checkout del repositorio"
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
+
+      # ── 2. Configurar Python 3.10 ─────────────────────────
+      - name: "🐍 Configurar Python 3.10"
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+          cache: "pip"
+
+      # ── 3. Instalar dependencias ──────────────────────────
+      - name: "📦 Instalar dependencias (aiohttp + aiodns)"
+        run: |
+          pip install --upgrade pip
+          pip install aiohttp aiodns
+
+      # ── 4. Ejecutar auditor ───────────────────────────────
+      - name: "🚀 Ejecutar auditor_nube.py"
+        run: |
+          echo "Motivo: ${{ github.event.inputs.descripcion }}"
+          python auditor_nube.py
+
+      # ── 5. Commit y push de los cambios ───────────────────
+      - name: "💾 Commit y Push — vod.m3u + playlist.m3u"
+        run: |
+          git config user.name  "Hablando Claro VIP - Nube"
+          git config user.email "nube@hablandoclarovip.auto"
+
+          git add vod.m3u playlist.m3u
+
+          # Solo hacer commit si hay cambios reales
+          if git diff --cached --quiet; then
+            echo "ℹ️  No hay cambios que confirmar."
+          else
+            FECHA=$(date -u '+%Y-%m-%d %H:%M UTC')
+            git commit -m "🔍 Auditoría masiva completada — ${FECHA}"
+            git push origin main
+            echo "✅ Cambios subidos correctamente."
+          fi
