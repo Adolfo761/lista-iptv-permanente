@@ -1,0 +1,70 @@
+# ============================================================
+# limpieza_automatica.yml
+# Workflow AUTOMÁTICO: Purga diaria de canales Live muertos
+# Schedule: cada día a las 08:00 UTC
+# También permite disparo manual (workflow_dispatch)
+# ============================================================
+
+name: "🧹 Limpieza Automática Diaria — Live TV"
+
+on:
+  schedule:
+    - cron: "0 8 * * *"   # Todos los días a las 08:00 UTC
+  workflow_dispatch:
+    inputs:
+      motivo:
+        description: "Motivo del disparo manual (opcional)"
+        required: false
+        default: "Limpieza manual forzada"
+
+permissions:
+  contents: write
+
+jobs:
+  limpieza-diaria:
+    name: "Purgar canales offline de playlist.m3u"
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      # ── 1. Clonar repositorio ──────────────────────────────
+      - name: "📥 Checkout del repositorio"
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
+
+      # ── 2. Configurar Python 3.10 ─────────────────────────
+      - name: "🐍 Configurar Python 3.10"
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+          cache: "pip"
+
+      # ── 3. Instalar dependencias ──────────────────────────
+      - name: "📦 Instalar dependencias (requests)"
+        run: |
+          pip install --upgrade pip
+          pip install requests
+
+      # ── 4. Ejecutar purga diaria ───────────────────────────
+      - name: "🚀 Ejecutar purga_diaria.py"
+        run: |
+          python purga_diaria.py
+
+      # ── 5. Commit y push si hay cambios ───────────────────
+      - name: "💾 Commit y Push — playlist.m3u depurada"
+        run: |
+          git config user.name  "Hablando Claro VIP - Nube"
+          git config user.email "nube@hablandoclarovip.auto"
+
+          git add playlist.m3u
+
+          if git diff --cached --quiet; then
+            echo "ℹ️  Sin cambios en playlist.m3u — todos los canales siguen vivos."
+          else
+            FECHA=$(date -u '+%Y-%m-%d %H:%M UTC')
+            git commit -m "🧹 Purga diaria completada — ${FECHA}"
+            git push origin main
+            echo "✅ playlist.m3u actualizada y subida correctamente."
+          fi
