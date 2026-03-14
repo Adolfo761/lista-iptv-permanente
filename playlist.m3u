@@ -4777,3 +4777,9 @@ https://nbculocallive.akamaized.net/hls/live/2037604/sacramento/stream1/master.m
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream3/master.m3u8
 #EXTINF:-1 tvg-name="Telemundo Las Vegas" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Telemundo_2018.svg/200px-Telemundo_2018.svg.png" group-title="Variedades",Telemundo Las Vegas
 https://nbculocallive.akamaized.net/hls/live/2037093/lasvegas/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="TVSeries.br@SD" tvg-logo="https://i.imgur.com/Ff5mj0o.png" group-title="TV: 🎬 CINE 24/7",TV Series 1 As Panteras (480p)
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CosmosTv.ar@SD" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="TV: 🎬 CINE 24/7",Cosmos Tv (720p)
+https://canaletaplus.com:3922/hybrid/play.m3u8
