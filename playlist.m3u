@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="TeleAntillas.do@SD" tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Teleantillas 2
+http://190.61.34.164:8000/play/a04b/index.m3u8
 #EXTINF:-1 tvg-id="Telemicro.do@SD" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Telemicro
 http://190.122.104.210:5080/LiveApp/streams/telemicrolocal5.m3u8
 #EXTINF:-1 tvg-id="Digital15.do@SD" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Digital 15
@@ -2753,8 +2755,6 @@ https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/playlist.m3u8?PlaylistM3UCL
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1 group-title="TV: 🇪🇸 ESPAÑA - REGIONALES" tvg-id="1572" tvg-name="TV Lascabras.net" tvg-logo="https://cdn.m3u.cl/logo/1572_TV_Lascabras_net.png",TV Lascabras.net | CL
 https://vivo.solumedia.com:19360/lascabrastv/lascabrastv.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="TeleAntillas.do@SD" tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="TV: 🇪🇸 ESPAÑA - REGIONALES",Tele Antillas
-http://200.125.170.122:8000/play/a0cg/index.m3u8
 #EXTINF:-1 tvg-id="TVHigueyDigital.do@SD" tvg-logo="https://i.imgur.com/ptQyOMi.png" group-title="TV: 🇪🇸 ESPAÑA - REGIONALES",TV Higuey Digital
 https://host.streamingnation.live/p/3467/live/tvhigueylive.m3u8
 #EXTINF:-1 group-title="TV: 🇪🇸 ESPAÑA - REGIONALES" tvg-id="332" tvg-name="TV Costa" tvg-logo="https://cdn.m3u.cl/logo/332_TV_Costa.png",TV Costa | CL
