@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/telesistema", "destination": "/api/telesistema" },
+    { "source": "/cdn", "destination": "/api/cdn" },
+    { "source": "/colorvision", "destination": "/api/colorvision" }
+  ]
+}
