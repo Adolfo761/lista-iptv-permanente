@@ -153,7 +153,7 @@ https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
 #EXTINF:-1 tvg-id="DeltaTVCanal50.do@SD" tvg-logo="https://imgur.com/Z1K1tyl.jpg" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Delta TV Canal 50[Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://fox.hostlagarto.com:8081/deltatv50/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Digital15.do@SD" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Digital 15
+#EXTINF:-1 tvg-id="digital15.do@sd" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Digital 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 #EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/
 https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
@@ -492,9 +492,10 @@ https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Telecanal28.do@SD" tvg-logo="https://i.imgur.com/hEJ6lZ9.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Telecanal 28[Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://edge.essastream.com/telecanal28/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Telecentro.do@SD" tvg-logo="https://i.imgur.com/F17zNXh.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Telecentro Canal 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://190.122.104.210:5080/LiveApp/streams/tcentro.m3u8
+#EXTINF:-1 tvg-id="telecentro.do@sd" tvg-logo="https://i.imgur.com/F17zNXh.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Telecentro Canal 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+#EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/
+https://live4.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleCibaoHD.do@SD" tvg-logo="https://i.imgur.com/IpInp05.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",TeleCibaoHD[Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://edge.essastream.com/telecibaotv/tracks-v1a1/mono.m3u8
@@ -516,7 +517,7 @@ https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TelemetroTV.do@SD" tvg-logo="https://imgur.com/Ck2NL0t.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Telemetro TV [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://streamunoapp.com:3366/live/telemetrolive.m3u8
-#EXTINF:-1 tvg-id="Telemicro.do@SD" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Telemicro Canal 5
+#EXTINF:-1 tvg-id="telemicro.do@sd" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Telemicro Canal 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 #EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/
 https://live4.telemicro.com.do/live/telemicrocast_1080p/playlist.m3u8
@@ -548,8 +549,8 @@ https://vdopanel.jlahozconsulting.com:3769/live/santodomingolive.m3u8
 #EXTINF:-1 tvg-id="TELESIGLO.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-294x165-FFFFFF.jpg" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",TELESIGLO[Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cnn.hostlagarto.com/telesiglo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Telesistema11.do@SD" tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Telesistema 11
-http://200.125.170.122:8000/play/a0ci/index.m3u8
+#EXTINF:-1 tvg-id="telesistema11.do@sd" tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Telesistema 11
+https://k20.usastreams.com:8081/telesistema/index.m3u8
 #EXTINF:-1 tvg-id="Teletur.do@SD" tvg-logo="https://i.imgur.com/Ig4gR93.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Teletur[Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
