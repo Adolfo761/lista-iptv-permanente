@@ -11,10 +11,10 @@ class handler(BaseHTTPRequestHandler):
 
     def do_GET(self):
         ctx = ssl._create_unverified_context()
-        url = "https://www.dailymotion.com/player/metadata/video/x1b7bk"
+        url = "https://www.dailymotion.com/player/metadata/video/x1b7bk?embedder=https%3A%2F%2Fcdn.com.do%2Fenvivo%2F"
         headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Referer": "https://cdn.com.do/",
+            "Referer": "https://cdn.com.do/envivo/",
             "Origin": "https://cdn.com.do"
         }
         req = urllib.request.Request(url, headers=headers)
