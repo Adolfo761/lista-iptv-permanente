@@ -2,6 +2,11 @@ from http.server import BaseHTTPRequestHandler
 import yt_dlp
 
 class handler(BaseHTTPRequestHandler):
+    def do_HEAD(self):
+        self.send_response(200)
+        self.send_header("Content-Type", "application/x-mpegURL")
+        self.end_headers()
+
     def do_GET(self):
         ydl_opts = {
             'format': 'best',

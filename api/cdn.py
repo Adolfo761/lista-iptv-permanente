@@ -4,6 +4,11 @@ import json
 import ssl
 
 class handler(BaseHTTPRequestHandler):
+    def do_HEAD(self):
+        self.send_response(200)
+        self.send_header("Content-Type", "application/x-mpegURL")
+        self.end_headers()
+
     def do_GET(self):
         ctx = ssl._create_unverified_context()
         url = "https://www.dailymotion.com/player/metadata/video/x1b7bk"
