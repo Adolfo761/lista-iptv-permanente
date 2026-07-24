@@ -619,10 +619,6 @@ https://live.sli.ke/live/npnhm84gz9/master.m3u8
 #EXTINF:-1 tvg-id="ZASTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4058-294x165-FFFFFF.jpg" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",ZAS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cloud5.zastv.net/hls/zastv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3pUik3b.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Telemundo Internacional
-http://138.121.15.230:9002/TELEMUNDO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3pUik3b.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Telemundo Nueva York (WNJU)
-http://168.228.44.241:9998/play/a0a9/index.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Documentaries" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG-1646155426722.png" group-title="Cultura y Documentales",Pluto TV Documentaries
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d539024-eca6-11ee-b6c5-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fd1dcfbf-0727-4a98-8ffd-eed12c0c3c2e&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="TVSHollywoodHistory.us@SD" tvg-logo="https://i.imgur.com/QtQGyMS.png" group-title="Cultura y Documentales",TVS Hollywood History
@@ -4917,14 +4913,6 @@ https://autopilot.catcast.tv/content/38720/index.m3u8
 https://streams2.sofast.tv/ptnr-yupptv/title-TOLLY-TV-TEL_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.br@SD" tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="TV: 🎬 CINE",MyTime Movie Network Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yt7JJrn.png" group-title="TV: 🎬 CINE",De Pelicula Latin America
-http://38.19.41.46:8081/DEPELICULA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yt7JJrn.png" group-title="TV: 🎬 CINE",CineLatino
-http://45.162.193.35/CINELATINO_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yt7JJrn.png" group-title="TV: 🎬 CINE",Cinevision Canal 19
-https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yt7JJrn.png" group-title="TV: 🎬 CINE",Star Channel
-http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="SUMtvLatino.us@SD" tvg-logo="https://i.imgur.com/ZObFN8Z.png" group-title="TV: 🎵 MÚSICA",SUMtv Latino
 https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BeachTVPanamaCity.us@SD" tvg-logo="https://i.imgur.com/HCQDvEe.png" group-title="TV: 🎵 MÚSICA",Beach TV Panama City
@@ -5811,15 +5799,3 @@ https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 #EXTINF:-1 tvg-id="EBSKids.kr@SD" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="TV: 🧸 INFANTIL",EBS kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/px0CSti.png" group-title="TV: 🧸 INFANTIL",Disney Channel Latin America
-http://45.166.93.156:9999/play/a0f3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/px0CSti.png" group-title="TV: 🧸 INFANTIL",Disney Jr. Latin America
-http://190.14.10.19:16000/play/a02d/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/px0CSti.png" group-title="TV: 🧸 INFANTIL",Chinola TV
-https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/px0CSti.png" group-title="TV: 🧸 INFANTIL",El Chavo TV
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/px0CSti.png" group-title="TV: 🧸 INFANTIL",Tiguerito TV
-https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/px0CSti.png" group-title="TV: 🧸 INFANTIL",Peques TV
-https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
