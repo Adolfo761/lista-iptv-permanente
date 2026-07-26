@@ -1,5 +1,6 @@
 {
   "rewrites": [
+    { "source": "/canal11", "destination": "/api/canal11" },
     { "source": "/telesistema", "destination": "/api/telesistema" },
     { "source": "/cdn", "destination": "/api/cdn" },
     { "source": "/colorvision", "destination": "/api/colorvision" }
