@@ -640,7 +640,11 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/px0CSti.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Peques TV
 https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
 #EXTINF:-1 tvg-id="telesistema11.do@sd" tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Telesistema 11
-https://lista-iptv-permanente.vercel.app/api/telesistema
+https://cdn3.wind.do/streams/telesistema/telesistema_master.m3u8
+#EXTINF:-1 tvg-id="cdn.do@sd" tvg-logo="https://dominicanchannels.com/wp-content/uploads/cdn-noticias.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",CDN Noticias
+http://190.61.90.17:40000/play/a03p/index.m3u8
+#EXTINF:-1 tvg-id="colorvision.do@sd" tvg-logo="https://cdn.m3u.cl/logo/762_Color_Vision.jpg" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Color Visión 9
+https://cdn3.wind.do/streams/colorvision/colorvision_master.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Documentaries" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG-1646155426722.png" group-title="Cultura y Documentales",Pluto TV Documentaries
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d539024-eca6-11ee-b6c5-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fd1dcfbf-0727-4a98-8ffd-eed12c0c3c2e&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="TVSHollywoodHistory.us@SD" tvg-logo="https://i.imgur.com/QtQGyMS.png" group-title="Cultura y Documentales",TVS Hollywood History
