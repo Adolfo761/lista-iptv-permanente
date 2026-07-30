@@ -656,9 +656,9 @@ http://181.119.66.28:8081/AXN/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Animal_Planet_logo_2018.svg/512px-Animal_Planet_logo_2018.svg.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Animal Planet HD
 http://181.78.8.199:8000/play/a06w/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Discovery_Turbo_logo.svg/512px-Discovery_Turbo_logo.svg.png" group-title="Documentales",Discovery Turbo
-http://181.78.79.131:8000/play/a0p8
+http://181.78.8.199:8000/play/a06v/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Animal_Planet_logo_2018.svg/512px-Animal_Planet_logo_2018.svg.png" group-title="Documentales",Animal Planet
-http://181.78.79.131:8000/play/a0po
+http://181.78.8.199:8000/play/a06w/index.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Documentaries" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG-1646155426722.png" group-title="Cultura y Documentales",Pluto TV Documentaries
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d539024-eca6-11ee-b6c5-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fd1dcfbf-0727-4a98-8ffd-eed12c0c3c2e&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="TVSHollywoodHistory.us@SD" tvg-logo="https://i.imgur.com/QtQGyMS.png" group-title="Cultura y Documentales",TVS Hollywood History
