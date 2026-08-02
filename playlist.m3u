@@ -48,6 +48,36 @@ https://stream.canaldelsol.com/sol26/live_1080.m3u8
 #EXTINF:-1 tvg-id="Antena21.do@SD" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Antena 21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://d1ypfac91iuc9g.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.do@SD" tvg-logo="https://i.imgur.com/8Qe8Z6j.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Discovery Turbo
+http://181.78.79.131:8000/play/a0p8
+#EXTINF:-1 tvg-id="RTVDCanal4.do@SD" tvg-logo="https://i.imgur.com/uU01KHz.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",RTVD Canal 4 RD
+https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.us@SD" tvg-logo="https://i.imgur.com/7zYIbU1.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Animal Planet
+http://181.78.8.199:8000/play/a0by/index.m3u8
+#EXTINF:-1 tvg-id="Golden.mx@SD" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="TV: 🎬 CINE",Golden
+http://38.19.41.46:8081/MTV/index.m3u8
+#EXTINF:-1 tvg-id="GoldenEdge.mx@SD" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="TV: 🎬 CINE",Golden Edge
+http://138.186.23.7:8082/GOLDENEDGE/index.m3u8
+#EXTINF:-1 tvg-id="GoldenPlus.mx@SD" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="TV: 🎬 CINE",Golden Plus
+http://177.234.249.135:8888/GoldenPlus/index.m3u8
+#EXTINF:-1 tvg-id="CineLatino.mx@SD" tvg-logo="https://i.imgur.com/yt7JJrn.png" group-title="TV: 🎬 CINE",CineLatino
+http://45.162.193.35/CINELATINO_HD/index.m3u8
+#EXTINF:-1 tvg-id="DePelicula.mx@SD" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="TV: 🎬 CINE",De Pelicula
+http://38.19.41.46:8081/DEPELICULA/index.m3u8
+#EXTINF:-1 tvg-id="AMC.us@SD" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="TV: 🎬 CINE",AMC Latin America
+http://45.162.193.35/AMC/index.m3u8
+#EXTINF:-1 tvg-id="AMCAlt.us@SD" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="TV: 🎬 CINE",AMC Latin America (alt)
+http://45.171.108.253:8888/AMC/index.m3u8
+#EXTINF:-1 tvg-id="DHE.us@SD" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="TV: 🎬 CINE",DHE
+http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="StarChannel.us@SD" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="TV: 🎬 CINE",Star Channel LA
+http://45.162.193.35/STAR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="MegaCineTV.us@SD" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="TV: 🎬 CINE",Mega Cine TV
+https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
+#EXTINF:-1 tvg-id="EuropaEuropa.es@SD" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="TV: 📺 SERIES",Europa Europa
+http://181.119.93.83:8000/play/a1sr/index.m3u8
+#EXTINF:-1 tvg-id="BorealTV.do@SD" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Boreal TV
+https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AhoraTV.do@SD" tvg-logo="https://i.imgur.com/dyJyuXc.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Ahora TV[Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://stream.haislin.com/ahoratv/index.m3u8
@@ -653,12 +683,6 @@ https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8
 http://181.119.66.28:8081/DE-PELICULA/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/AXN_logo.svg/512px-AXN_logo.svg.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",AXN Latin America
 http://181.119.66.28:8081/AXN/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Animal_Planet_logo_2018.svg/512px-Animal_Planet_logo_2018.svg.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Animal Planet HD
-http://181.78.8.199:8000/play/a06w/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Discovery_Turbo_logo.svg/512px-Discovery_Turbo_logo.svg.png" group-title="Documentales",Discovery Turbo
-http://181.78.79.131:8000/play/a0p8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Animal_Planet_logo_2018.svg/512px-Animal_Planet_logo_2018.svg.png" group-title="Documentales",Animal Planet
-http://181.78.8.199:8000/play/a06w
 #EXTINF:-1 tvg-name="Pluto TV Documentaries" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG-1646155426722.png" group-title="Cultura y Documentales",Pluto TV Documentaries
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d539024-eca6-11ee-b6c5-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fd1dcfbf-0727-4a98-8ffd-eed12c0c3c2e&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="TVSHollywoodHistory.us@SD" tvg-logo="https://i.imgur.com/QtQGyMS.png" group-title="Cultura y Documentales",TVS Hollywood History
