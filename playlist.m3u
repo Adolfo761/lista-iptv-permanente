@@ -321,8 +321,14 @@ https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1 tvg-id="TelenewsTV.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3878-294x165-FFFFFF.jpg" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Telenews TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8
+#EXTINF:-1 tvg-id="Telenord8.do@SD" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Telenord 8
+https://fox.hostlagarto.com:8081/telenord8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q6kL9h8.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Telenord Canal 8
 https://fox.hostlagarto.com:8081/telenord8/index.m3u8
+#EXTINF:-1 tvg-id="Telenord10.do@SD" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Telenord 10
+https://fox.hostlagarto.com:8081/telenord10/playlist.m3u8
+#EXTINF:-1 tvg-id="Telenord12.do@SD" tvg-logo="https://i.imgur.com/o7EzEsV.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Telenord 12
+https://fox.hostlagarto.com:8081/telenord12/playlist.m3u8
 #EXTINF:-1 tvg-id="749" tvg-logo="https://cdn.m3u.cl/logo/749_Teleradio_Norte.jpg" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Teleradio Norte
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://angelistic.live:3785/hybrid/play.m3u8?PlaylistM3UCL
