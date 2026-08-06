@@ -314,6 +314,8 @@ https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:152.0) Gecko/20100101 Firefox/152.0
 #EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/index_pc.php
 https://live2.telemicro.com.do/live/55/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleantillas.do@sd" tvg-logo="https://i.imgur.com/2Yy5V6b.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Teleantillas Canal 2
+http://45.171.108.253:8888/TELEANTILLAS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3pUik3b.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Telemundo Internacional
 http://138.121.15.230:9002/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3pUik3b.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Telemundo USA (Uplynk)
