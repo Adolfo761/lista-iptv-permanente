@@ -103,6 +103,7 @@ https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 #EXTINF:-1 tvg-id="colorvision.do@sd" tvg-logo="https://cdn.m3u.cl/logo/762_Color_Vision.jpg" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Color Visión 9
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 (Linux; Android)
 https://cdn3.wind.do/streams/colorvision/colorvision_master.m3u8
 #EXTINF:-1 tvg-id="CotubanamaTV.do@SD" tvg-logo="https://i.imgur.com/D6gAezp.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Cotubanama TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -339,6 +340,7 @@ https://play.once.net.ec/telerama/live.tv/538.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://vdopanel.jlahozconsulting.com:3769/live/santodomingolive.m3u8
 #EXTINF:-1 tvg-id="telesistema11.do@sd" tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Telesistema 11
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 (Linux; Android)
 https://cdn3.wind.do/streams/telesistema/telesistema_master.m3u8
 #EXTINF:-1 tvg-id="751" tvg-logo="https://cdn.m3u.cl/logo/751_Teleunion.jpg" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Teleunion
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
