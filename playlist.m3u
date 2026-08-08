@@ -1,3 +1,23 @@
+#EXTINF:-1 tvg-id="Space.lat@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Space_logo_2015.png" group-title="02. 🎬 CINE & PELÍCULAS",Space
+http://45.162.193.35/CINELATINO_HD/index.m3u8
+#EXTINF:-1 tvg-id="SpaceAlt.lat@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Space_logo_2015.png" group-title="02. 🎬 CINE & PELÍCULAS",Space (Alt)
+http://181.119.66.28:8081/SPACE/index.m3u8
+#EXTINF:-1 tvg-id="MegaCineTV.us@SD" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="02. 🎬 CINE & PELÍCULAS",Mega Cine TV
+https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
+#EXTINF:-1 tvg-id="Golden.mx@HD" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="02. 🎬 CINE & PELÍCULAS",Golden
+http://209.14.115.253:8081/GOLDEN/index.m3u8
+#EXTINF:-1 tvg-id="GoldenEdge.mx@HD" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="02. 🎬 CINE & PELÍCULAS",Golden Edge
+http://209.14.115.253:8081/GOLDEN-EDGE/index.m3u8
+#EXTINF:-1 tvg-id="DePelicula.mx@HD" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="02. 🎬 CINE & PELÍCULAS",De Película
+http://209.14.115.253:8081/DE-PELICULA/index.m3u8
+#EXTINF:-1 tvg-id="StarChannel.la@HD" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="02. 🎬 CINE & PELÍCULAS",Star Channel
+http://181.119.66.28:8081/STAR-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.la@HD" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="02. 🎬 CINE & PELÍCULAS",Cinecanal
+http://45.162.193.35/CINECANAL/index.m3u8
+#EXTINF:-1 tvg-id="StudioUniversal.la@HD" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="02. 🎬 CINE & PELÍCULAS",Studio Universal
+http://45.162.193.35/STUDIO-UNIVERSAL/index.m3u8
+#EXTINF:-1 tvg-id="AMC.la@HD" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="02. 🎬 CINE & PELÍCULAS",AMC
+http://45.162.193.35/AMC/index.m3u8
 #EXTM3U
 # VIP TV - lista depurada y organizada
 # duplicados eliminados | ordenada por pais | sin canales [Not 24/7]
@@ -93,8 +113,8 @@ https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
 #EXTINF:-1 tvg-id="CieloTV.do@SD" tvg-logo="https://i.imgur.com/2PNw6BA.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Cielo TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yt7JJrn.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",CineLatino
-http://45.228.235.116:8000/play/a0iz/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yt7JJrn.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Space
+http://45.162.193.35:8000/play/a0iz/index.m3u8
 #EXTINF:-1 tvg-id="CiracuTV.ec@SD" tvg-logo="https://i.imgur.com/mkf2TJ6.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Ciracu TV
 https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
 #EXTINF:-1 tvg-id="ColimdoTV.do@SD" tvg-logo="https://i.imgur.com/ZeUgLCa.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",ColimdoT TV
