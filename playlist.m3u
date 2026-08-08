@@ -413,15 +413,582 @@ https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8
 #EXTINF:-1 tvg-id="ZASTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4058-294x165-FFFFFF.jpg" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",ZAS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cloud5.zastv.net/hls/zastv.m3u8
-# 02. 🎬 CINE & PELÍCULAS
-#EXTINF:-1 tvg-id="cinelatino.mx@sd" tvg-logo="https://i.imgur.com/yt7JJrn.png" group-title="02. 🎬 CINE & PELÍCULAS",Cinelatino
-http://45.162.193.35/CINELATINO_HD/index.m3u8
-#EXTINF:-1 tvg-id="space.lat@sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Space_logo_2015.png" group-title="02. 🎬 CINE & PELÍCULAS",SPACE
-http://181.119.66.28:8081/SPACE/index.m3u8
-#EXTINF:-1 tvg-id="golden.mx@sd" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="02. 🎬 CINE & PELÍCULAS",Golden
-http://209.14.115.253:8081/GOLDEN/index.m3u8
-#EXTINF:-1 tvg-id="megacinetv.us@sd" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="02. 🎬 CINE & PELÍCULAS",Mega Cine TV
+#EXTINF:-1 tvg-name="13 Entretención" tvg-logo="https://i.imgur.com/1vTno0m.png" tvg-id="13E.cl" group-title="02. 🎬 CINE & PELÍCULAS",13 Entretención
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
+#EXTINF:-1 tvg-name="13 Prime" tvg-logo="https://i.imgur.com/YwDFNxs.png" tvg-id="13P.cl" group-title="02. 🎬 CINE & PELÍCULAS",13 Prime
+https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
+#EXTINF:-1 tvg-name="13 Realities" tvg-logo="https://i.imgur.com/p1Qpljw.png" tvg-id="13Realities.cl" group-title="02. 🎬 CINE & PELÍCULAS",13 Realities
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+#EXTINF:-1 tvg-id="13T.cl@SD" tvg-logo="https://i.imgur.com/csBNi2L.png" group-title="02. 🎬 CINE & PELÍCULAS",13 Teleseries
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1 tvg-id="13C.cl@SD" tvg-logo="https://i.imgur.com/Zfe2f5j.png" group-title="02. 🎬 CINE & PELÍCULAS",13C
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+#EXTINF:-1 tvg-id="24HourFreeMovies.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="02. 🎬 CINE & PELÍCULAS",24 Hour Free Movies
+https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
+#EXTINF:-1 tvg-name="3/24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/3-24-es.png" tvg-id="324.es" group-title="02. 🎬 CINE & PELÍCULAS",3/24
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-id="30ATVClassicMovies.us@SD" tvg-logo="https://babaktv.com/wp-content/uploads/2023/09/30A-Classi-Movies.jpeg" group-title="02. 🎬 CINE & PELÍCULAS",30A TV Classic Movies
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
+#EXTINF:-1 tvg-id="70sCinema.us@SD" tvg-logo="https://i.imgur.com/mgXeEE4.png" group-title="02. 🎬 CINE & PELÍCULAS",70s Cinema
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=1f931dfb-f60b-46aa-8297-e1c279f59aa8
+#EXTINF:-1 tvg-id="80sRewind.us@SD" tvg-logo="https://i.imgur.com/nkEeYfI.png" group-title="02. 🎬 CINE & PELÍCULAS",80s Rewind
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=99ee1a8c-ba00-4f77-aa48-ae7722ed2d8f
+#EXTINF:-1 tvg-id="90sThrowback.us@SD" tvg-logo="https://i.imgur.com/KoGko6M.png" group-title="02. 🎬 CINE & PELÍCULAS",90s Throwback
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=d4a499ac-ee55-4e42-b831-928a3c8a4b7b
+#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us@SD" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="02. 🎬 CINE & PELÍCULAS",ABN Bible Movies
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+#EXTINF:-1 tvg-id="AbzyDhakad.in@SD" tvg-logo="https://i.imgur.com/5ORC4tn.png" group-title="02. 🎬 CINE & PELÍCULAS",Abzy Dhakad
+https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
+#EXTINF:-1 tvg-id="AbzyMovies.in@SD" tvg-logo="https://i.imgur.com/LnVgKVF.png" group-title="02. 🎬 CINE & PELÍCULAS",Abzy Movies
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
+#EXTINF:-1 tvg-id="Action24.gr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png" group-title="02. 🎬 CINE & PELÍCULAS",Action 24
+http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+#EXTINF:-1 tvg-id="AdrenalinaPuraTV.us@Brazil" tvg-logo="https://i.imgur.com/Pvid2iH.png" group-title="02. 🎬 CINE & PELÍCULAS",Adrenalina Pura TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b790b985706b00072cb797/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=35b2f898-e0d6-4fd9-ae93-ba7029af163a
+#EXTINF:-1 tvg-id="AfraFilm.ir@SD" tvg-logo="" group-title="02. 🎬 CINE & PELÍCULAS",Afra Film
+https://afrafhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AKCTVPuppies.us@SD" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="02. 🎬 CINE & PELÍCULAS",AKC TV Puppies 24/7
+https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
+#EXTINF:-1 tvg-name="Al Arabiya العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Al-Arabiya_new_logo.svg/640px-Al-Arabiya_new_logo.svg.png" tvg-id="AlArabiya.ae" group-title="02. 🎬 CINE & PELÍCULAS",Al Arabiya العربية
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlFadyTV.us@SD" tvg-logo="https://i.imgur.com/7L0l0iY.png" group-title="02. 🎬 CINE & PELÍCULAS",Al-Fady TV
+https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlankarTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALANKAR/images/LOGO_HD/image.png" group-title="02. 🎬 CINE & PELÍCULAS",Alankar TV
+https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Alcarria TV" tvg-logo="https://i.imgur.com/zNSuxVZ.jpg" tvg-id="AlcarriaTV.es" group-title="02. 🎬 CINE & PELÍCULAS",Alcarria TV
+http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 tvg-id="AlkarmaTVFamily.us@SD" tvg-logo="https://i.imgur.com/yUEuQA2.png" group-title="02. 🎬 CINE & PELÍCULAS",Alkarma TV Family
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlkarmaTVMiddleEast.us@SD" tvg-logo="https://i.imgur.com/6OmNw5A.png" group-title="02. 🎬 CINE & PELÍCULAS",Alkarma TV Middle East
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlkarmaTVNorthAmericaCanada.us@SD" tvg-logo="https://i.imgur.com/pnm60bq.png" group-title="02. 🎬 CINE & PELÍCULAS",Alkarma TV North America & Canada
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlkarmaTVPraise.us@SD" tvg-logo="https://i.imgur.com/bJLKkou.png" group-title="02. 🎬 CINE & PELÍCULAS",Alkarma TV Praise
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlkarmaTVTalmazaDiscipleship.us@SD" tvg-logo="https://i.imgur.com/t2ZkRbr.png" group-title="02. 🎬 CINE & PELÍCULAS",Alkarma TV Talmaza
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlkarmaTVYouthEnglish.us@SD" tvg-logo="https://i.imgur.com/kpuO8m7.png" group-title="02. 🎬 CINE & PELÍCULAS",Alkarma TV Youth & English
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlmagdTVMiddleEast.us@SD" tvg-logo="https://i.imgur.com/3pUik3b.png" group-title="02. 🎬 CINE & PELÍCULAS",Almagd TV Middle East
+https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AbsoluteRealitybyWETV.us@SD" tvg-logo="https://i.imgur.com/Gtwk8ic.png" group-title="02. 🎬 CINE & PELÍCULAS",AMC Absolute Reality
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AMC.us@SD" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="02. 🎬 CINE & PELÍCULAS",AMC Latin America
+http://45.162.193.35/AMC/index.m3u8
+#EXTINF:-1 tvg-id="AMCAlt.us@SD" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="02. 🎬 CINE & PELÍCULAS",AMC Latin America (alt)
+http://45.171.108.253:8888/AMC/index.m3u8
+#EXTINF:-1 tvg-id="Ameritrade.us@SD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CZKwin9mL.png" group-title="02. 🎬 CINE & PELÍCULAS",Ameritrade
+https://tdameritrade-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ARTFLIXMovieClassics.us@SD" tvg-logo="https://i.imgur.com/5pOZQB4.png" group-title="02. 🎬 CINE & PELÍCULAS",Artflix Movie Classics
+https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ARTNTV.us@SD" tvg-logo="" group-title="02. 🎬 CINE & PELÍCULAS",ARTN TV
+https://streamer1.connectto.com/ARTN_mobile/index.m3u8
+#EXTINF:-1 tvg-id="KBSVDT1.us@SD" tvg-logo="https://i.imgur.com/6lklsyN.png" group-title="02. 🎬 CINE & PELÍCULAS",AssyriaSat
+http://66.242.170.53/hls/live/temp/index.m3u8
+#EXTINF:-1 tvg-id="AuroraMediaFilms.gt@SD" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="02. 🎬 CINE & PELÍCULAS",Aurora Media Films
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+#EXTINF:-1 tvg-id="BlackCinema.us@SD" tvg-logo="https://i.imgur.com/FKBp987.png" group-title="02. 🎬 CINE & PELÍCULAS",BET Cinema
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=8f064fad-0ee6-4dfe-a232-d42fc2518cb2
+#EXTINF:-1 tvg-id="BIZCinema.uz@SD" tvg-logo="https://biztv.uz/static/media/biz-cinema.286b83dc.png" group-title="02. 🎬 CINE & PELÍCULAS",BIZ Cinema
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
+#EXTINF:-1 tvg-name="Bon Dia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_Bon_Dia_TV.png" tvg-id="BonDiaTV.es" group-title="02. 🎬 CINE & PELÍCULAS",Bon Dia
+https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
+#EXTINF:-1 tvg-id="BUTV10.us@SD" tvg-logo="https://i.imgur.com/Iv1Fe67.png" group-title="02. 🎬 CINE & PELÍCULAS",BUTV10
+https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="CadenaA.bo@SD" tvg-logo="https://i.imgur.com/BxQPPAA.png" group-title="02. 🎬 CINE & PELÍCULAS",Cadena A
+https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
+#EXTINF:-1 tvg-id="CafeFilm.ir@SD" tvg-logo="" group-title="02. 🎬 CINE & PELÍCULAS",Cafe Film
+https://cafefhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Canal 8" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/5efe501c21d05a0722152f6d.png" tvg-id="Canal8.cr" group-title="02. 🎬 CINE & PELÍCULAS",Canal 8
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-id="CanalE.ar" group-title="02. 🎬 CINE & PELÍCULAS",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-name="CGTN Español" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTNSpanish.cn" group-title="02. 🎬 CINE & PELÍCULAS",CGTN Español
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:-1 tvg-name="CGTN العربية" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTNArabic.cn" group-title="02. 🎬 CINE & PELÍCULAS",CGTN العربية
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+#EXTINF:-1 tvg-id="Charge.us@SD" tvg-logo="https://i.imgur.com/1rxmu2u.png" group-title="02. 🎬 CINE & PELÍCULAS",Charge!
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+#EXTINF:-1 tvg-id="ChefChampion.us@SD" tvg-logo="https://i.imgur.com/15a9pG9.png" group-title="02. 🎬 CINE & PELÍCULAS",Chef Champion
+https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
+#EXTINF:-1 tvg-id="ChefRocShow.us@SD" tvg-logo="https://i.imgur.com/vhVnAzE.png" group-title="02. 🎬 CINE & PELÍCULAS",Chef Roc Show
+https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
+#EXTINF:-1 tvg-id="CineAdrenalina.us@SD" tvg-logo="https://i.imgur.com/njCKaMv.png" group-title="02. 🎬 CINE & PELÍCULAS",Cine Adrenalina
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVCineClasico.us@US" tvg-logo="https://i.imgur.com/hCA5BRr.png" group-title="02. 🎬 CINE & PELÍCULAS",Cine Clásico
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b9671cdac71b0008f371df/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=172e5cec-2f0b-433d-8fdd-2304fd7d2966
+#EXTINF:-1 tvg-id="PlutoTVCineComedia.us@Spain" tvg-logo="https://i.imgur.com/1H1MHb2.png" group-title="02. 🎬 CINE & PELÍCULAS",Cine comedia
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=2167c845-2cc9-4191-94d6-2cfb743f9729
+#EXTINF:-1 tvg-id="CinePremiere.us@SD" tvg-logo="https://i.imgur.com/PdhWTO6.png" group-title="02. 🎬 CINE & PELÍCULAS",Cine Premiere
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="CineTerror.us@SD" tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="02. 🎬 CINE & PELÍCULAS",Cine terror
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=6571052a-c11e-4c95-8395-da035f5436f0
+#EXTINF:-1 tvg-id="CineTerror.us@LATAM" tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="02. 🎬 CINE & PELÍCULAS",Cine Terror LATAM
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="CinemaOne.ph@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="02. 🎬 CINE & PELÍCULAS",Cinema One
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd
+#EXTINF:-1 tvg-id="CineMo.ph@SD" tvg-logo="https://i.imgur.com/rGAOD3f.png" group-title="02. 🎬 CINE & PELÍCULAS",CineMo
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd
+#EXTINF:-1 tvg-id="Cinevault80s.us@SD" tvg-logo="https://i.imgur.com/xaCyyDd.png" group-title="02. 🎬 CINE & PELÍCULAS",Cinevault 80s
+https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CinevaultWesterns.us@SD" tvg-logo="https://i.imgur.com/K1W137J.png" group-title="02. 🎬 CINE & PELÍCULAS",Cinevault Westerns
+https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ClassicCinema.us@SD" tvg-logo="https://i.imgur.com/FJoPnTb.png" group-title="02. 🎬 CINE & PELÍCULAS",Classic Cinema
+https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
+#EXTINF:-1 tvg-name="Classic Movies Channel" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/561c5b0dada51f8004c4d855/colorLogoPNG.png" group-title="02. 🎬 CINE & PELÍCULAS",Classic Movies Channel
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d539452-eca6-11ee-b4d5-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=67b71724-9bb2-4e58-80fd-6dd95d98103f&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="CosmosTv.ar@SD" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="02. 🎬 CINE & PELÍCULAS",Cosmos Tv
+https://canaletaplus.com:3922/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="CSatTV.us@SD" tvg-logo="https://i.imgur.com/fp2EaLJ.png" group-title="02. 🎬 CINE & PELÍCULAS",CSat TV
+http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CTNCourtFeed.us@SD" tvg-logo="https://i.imgur.com/pb0TFQt.jpeg" group-title="02. 🎬 CINE & PELÍCULAS",CT-N Court Feed
+http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8
+#EXTINF:-1 tvg-id="CTNLiveStream2.us@SD" tvg-logo="https://i.imgur.com/pb0TFQt.jpeg" group-title="02. 🎬 CINE & PELÍCULAS",CT-N Live Stream 2
+http://video.ct-n.com/live/web2stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CTNTVConneticut.us@SD" tvg-logo="https://i.imgur.com/pb0TFQt.jpg" group-title="02. 🎬 CINE & PELÍCULAS",CT-N TV Conneticut
+http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8
+#EXTINF:-1 tvg-id="DarkMatterTV.us@SD" tvg-logo="https://i.imgur.com/9K8T3ND.png" group-title="02. 🎬 CINE & PELÍCULAS",Dark Matter TV
+https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DaystarTVEspanol.us@SD" tvg-logo="https://i.imgur.com/4nP7j4M.png" group-title="02. 🎬 CINE & PELÍCULAS",Daystar Español
+https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8?ads.vf=58GrEFelNTK
+#EXTINF:-1 tvg-id="DaystarTV.us@SD" tvg-logo="https://i.imgur.com/IjzCv8f.png" group-title="02. 🎬 CINE & PELÍCULAS",Daystar TV
+https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8?ads.vf=2gqxhLHfUR0
+#EXTINF:-1 tvg-id="DeFianceMedia.pr@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698943bac4421ebc533695/images/logo_20231219_193005_68.png" group-title="02. 🎬 CINE & PELÍCULAS",DeFiance Media
+https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DHE.us@SD" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="02. 🎬 CINE & PELÍCULAS",DHE
+http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
+#EXTINF:-1 tvg-name="DW Español Ⓢ" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWEspanol.de" group-title="02. 🎬 CINE & PELÍCULAS",DW Español Ⓢ
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="EBSCinema.us@SD" tvg-logo="https://i.imgur.com/fewPTFE.png" group-title="02. 🎬 CINE & PELÍCULAS",EBS Cinema
+https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
+#EXTINF:-1 tvg-id="EiseiGekijo.jp@SD" tvg-logo="https://yt3.googleusercontent.com/d5yMuTHpdKEjTqXDEnS-iYo_AaKwuwYtHRs3gbLB9Hg8j_XtXyUXOeKxetptLhz85SciuA5i=s512-c-k-c0x00ffffff-no-rj" group-title="02. 🎬 CINE & PELÍCULAS",Eisei Gekijo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+#EXTINF:-1 tvg-name="El Pingüino TV" tvg-logo="https://i.imgur.com/ohXs2NV.png" tvg-id="ElPinguinoTV.cl" group-title="02. 🎬 CINE & PELÍCULAS",El Pingüino TV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ElToroTV.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png" group-title="02. 🎬 CINE & PELÍCULAS",El Toro TV
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:-1 tvg-id="ElbesharaGTV.us@SD" tvg-logo="https://i.imgur.com/b0Wx7pE.png" group-title="02. 🎬 CINE & PELÍCULAS",Elbeshara GTV
+http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="ETB1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/512px-ETB1_2022_logo.svg.png" tvg-id="ETB1.es" group-title="02. 🎬 CINE & PELÍCULAS",ETB1
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+#EXTINF:-1 tvg-name="ETB2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/512px-ETB2_2022_logo.svg.png" tvg-id="ETB2.es" group-title="02. 🎬 CINE & PELÍCULAS",ETB2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+#EXTINF:-1 tvg-name="euronews" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/euro-news-int.png" tvg-id="Euronews.es" group-title="02. 🎬 CINE & PELÍCULAS",euronews
+https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
+#EXTINF:-1 tvg-id="EUTV.br@SD" tvg-logo="https://i.imgur.com/8PxpamC.png" group-title="02. 🎬 CINE & PELÍCULAS",EUTV
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-id="FamiliaVisionHD.pr@SD" tvg-logo="https://i.imgur.com/uqTH7m5.jpg" group-title="02. 🎬 CINE & PELÍCULAS",Familia Visión HD
+https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="FernandinaBeachChannel.us@SD" tvg-logo="https://i.imgur.com/9UfyekJ.png" group-title="02. 🎬 CINE & PELÍCULAS",Fernandina Beach City Meeting
+https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8
+#EXTINF:-1 tvg-id="FilamchiBhojpuri.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FILAMCHI_BHOJPURI/images/LOGO_HD/image.png" group-title="02. 🎬 CINE & PELÍCULAS",Filamchi Bhojpuri
+https://epiconvh.akamaized.net/live/filamchi/master.m3u8
+#EXTINF:-1 tvg-id="FilmesSuspense.us@Brazil" tvg-logo="https://i.imgur.com/45V9MKk.png" group-title="02. 🎬 CINE & PELÍCULAS",Filmes Suspense
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=1a5724de-abfb-4de6-be66-8a7da98bf460
+#EXTINF:-1 tvg-id="FilmRiseAnime.us@SD" tvg-logo="https://i.imgur.com/3wqeGXM.png" group-title="02. 🎬 CINE & PELÍCULAS",FilmRise Anime
+https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="FilmRiseWestern.us@SD" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="02. 🎬 CINE & PELÍCULAS",FilmRise Westerns
+https://dz05z8iljgvbe.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="FlicksofFury.us@SD" tvg-logo="https://i.imgur.com/rtL5L81.png" group-title="02. 🎬 CINE & PELÍCULAS",Flicks of Fury
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=7ff450c0-5ef6-401d-8e37-05cbe55b4387
+#EXTINF:-1 tvg-id="KBSIDT1.us@SD" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/8/8e/KBSIO6.png" group-title="02. 🎬 CINE & PELÍCULAS",FOX 23 Cape Girardeau MO
+https://live.field59.com/kbsi/kbsi1/playlist.m3u8
+#EXTINF:-1 tvg-id="GEMPixel.tr@SD" tvg-logo="https://i.ibb.co/Q3tkbPrn/icon-27.png" group-title="02. 🎬 CINE & PELÍCULAS",GEM Pixel
+https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
+#EXTINF:-1 tvg-id="GirlfriendsFilms.us@SD" tvg-logo="https://i.imgur.com/hCcdrOv.png" group-title="02. 🎬 CINE & PELÍCULAS",Girlfriends
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66ba1e4446762a000855cd87/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=07998d5d-dd4a-4bcc-84be-58dcbcec76b7&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=095cb0c6-33ee-43dd-a68b-d881845ef61d
+#EXTINF:-1 tvg-id="GoldStar.ir@SD" tvg-logo="" group-title="02. 🎬 CINE & PELÍCULAS",Gold Star
+https://moviethls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Golden.mx@SD" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="02. 🎬 CINE & PELÍCULAS",Golden
+http://38.19.41.46:8081/MTV/index.m3u8
+#EXTINF:-1 tvg-id="GCOtv.us@SD" tvg-logo="https://i.imgur.com/zHBR2zR.png" group-title="02. 🎬 CINE & PELÍCULAS",Golden Community Television
+https://reflect-golden-co.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-id="GoldenEdge.mx@SD" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="02. 🎬 CINE & PELÍCULAS",Golden Edge
+http://138.186.23.7:8082/GOLDENEDGE/index.m3u8
+#EXTINF:-1 tvg-id="GoldenPlus.mx@SD" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="02. 🎬 CINE & PELÍCULAS",Golden Plus
+http://177.234.249.135:8888/GoldenPlus/index.m3u8
+#EXTINF:-1 tvg-id="Golden.mx@Panregional" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="02. 🎬 CINE & PELÍCULAS",Golden TV
+https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8
+#EXTINF:-1 tvg-id="GoodLife45.us@SD" tvg-logo="https://i.imgur.com/AQfVNMK.png" group-title="02. 🎬 CINE & PELÍCULAS",GoodLife 45
+https://2-fss-2.streamhoster.com/pl_118/201450-1248872-1/playlist.m3u8
+#EXTINF:-1 tvg-id="GospelMovieTV.br@SD" tvg-logo="https://i.imgur.com/cQN3nWt.png" group-title="02. 🎬 CINE & PELÍCULAS",Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-id="GrandCinema.tr@SD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/grand-cinema.png" group-title="02. 🎬 CINE & PELÍCULAS",Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="GravitasMovies.us@SD" tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="02. 🎬 CINE & PELÍCULAS",Gravitas Movies
+https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
+#EXTINF:-1 tvg-id="GrjngoWesternMovies.de@SD" tvg-logo="https://i.imgur.com/wFqhK3p.png" group-title="02. 🎬 CINE & PELÍCULAS",Grjngo Western Movies
+https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HallmarkMoviesMore.us@SD" tvg-logo="" group-title="02. 🎬 CINE & PELÍCULAS",Hallmark Movies & More
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=fc1da926-1c2b-44de-a80b-57f4b8693e04
+#EXTINF:-1 tvg-id="HighVisionTV.us@SD" tvg-logo="https://i.imgur.com/zhCgoru.png" group-title="02. 🎬 CINE & PELÍCULAS",High Vision
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
+#EXTINF:-1 tvg-id="HmongStarTV.us@SD" tvg-logo="https://i.imgur.com/dRsacao.png" group-title="02. 🎬 CINE & PELÍCULAS",Hmong Star TV
+https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="HOLAPlay.es@SD" tvg-logo="https://m.media-amazon.com/images/I/5194tl8duqL.png" group-title="02. 🎬 CINE & PELÍCULAS",HOLA! Play
+https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
+#EXTINF:-1 tvg-id="HomePlus.ir@SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/homeplus.png" group-title="02. 🎬 CINE & PELÍCULAS",Home Plus
+https://homeplushls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ICCplus.us@SD" tvg-logo="https://www.lyngsat.com/logo/tv/ii/iccplus-us.png" group-title="02. 🎬 CINE & PELÍCULAS",ICC Plus
+https://icchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="iFilm2.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/c/ce/Ifilm2logo.png" group-title="02. 🎬 CINE & PELÍCULAS",iFilm 2
+https://live.presstv.ir/hls/ifilm2.m3u8
+#EXTINF:-1 tvg-id="iFilmArabic.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="02. 🎬 CINE & PELÍCULAS",iFilm Arabic
+https://live.presstv.ir/hls/ifilmar.m3u8
+#EXTINF:-1 tvg-id="iFilmEnglish.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="02. 🎬 CINE & PELÍCULAS",iFilm English
+https://live.presstv.ir/hls/ifilmen.m3u8
+#EXTINF:-1 tvg-id="iFilmPersian.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="02. 🎬 CINE & PELÍCULAS",iFilm Persian
+https://live.presstv.ir/hls/ifilmfa.m3u8
+#EXTINF:-1 tvg-id="IndywoodTV.in@SD" tvg-logo="https://i.ibb.co/jT3NCPp/logo-tv.png" group-title="02. 🎬 CINE & PELÍCULAS",Indywood TV
+https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
+#EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_WE/images/LOGO_HD/image.png" group-title="02. 🎬 CINE & PELÍCULAS",Kairali We
+https://cdn-3.pishow.tv/live/1530/master.m3u8
+#EXTINF:-1 tvg-id="KomsanTV.kh@SD" tvg-logo="https://i.imgur.com/SNTf2r3.png" group-title="02. 🎬 CINE & PELÍCULAS",Komsan TV
+http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosCine.pt@SD" tvg-logo="https://i.imgur.com/CZViCwB.jpg" group-title="02. 🎬 CINE & PELÍCULAS",Kuriakos Cine
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KVVBLD1.us@SD" tvg-logo="https://i.imgur.com/IXC8PXf.png" group-title="02. 🎬 CINE & PELÍCULAS",KVVB-TV 33 Victor Valley
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
+#EXTINF:-1 tvg-id="LeominsterTVPublic.us@SD" tvg-logo="https://i.imgur.com/lTzoshf.png" group-title="02. 🎬 CINE & PELÍCULAS",Leominster TV Public
+https://livestream.telvue.com/leominster1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LifevisionTV.us@SD" tvg-logo="" group-title="02. 🎬 CINE & PELÍCULAS",LifevisionTV
+https://tgn.bozztv.com/lifevision/lifevision/index.m3u8
+#EXTINF:-1 tvg-id="LogosTV.us@SD" tvg-logo="https://i.imgur.com/h8DioXU.png" group-title="02. 🎬 CINE & PELÍCULAS",Logos TV
+https://5a8308add0b31.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LogosTVEnglish.us@SD" tvg-logo="https://i.imgur.com/LDfEK81.png" group-title="02. 🎬 CINE & PELÍCULAS",Logos TV English
+https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/playlist.m3u8
+#EXTINF:-1 tvg-id="LoneStar.us@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/666988e3bac4421ebc533621/images/logo_20231219_215208_70.png" group-title="02. 🎬 CINE & PELÍCULAS",Lone Star
+https://lonestar-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MaahTV.my@SD" tvg-logo="https://i.imgur.com/FkyueH6.png" group-title="02. 🎬 CINE & PELÍCULAS",Maah TV
+https://hls.maahtv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="MadDogandMerrill.us@SD" tvg-logo="https://i.imgur.com/5QQy3aW.png" group-title="02. 🎬 CINE & PELÍCULAS",Mad Dog and Merrill
+https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
+#EXTINF:-1 tvg-id="MadeInHollywood.us@SD" tvg-logo="https://i.imgur.com/p16HNIM.png" group-title="02. 🎬 CINE & PELÍCULAS",Made in Hollywood
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MahaMovie.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="02. 🎬 CINE & PELÍCULAS",Maha Movie
+https://cdn-6.pishow.tv/live/10007/master.m3u8
+#EXTINF:-1 tvg-id="MaverickBlackCinema.us@SD" tvg-logo="https://images.fubo.tv/station_logos/maverick_black_cinema_c.png" group-title="02. 🎬 CINE & PELÍCULAS",Maverick Black Cinema
+https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MaxivisionTV.gt@SD" tvg-logo="https://i.imgur.com/UC8WrEN.jpg" group-title="02. 🎬 CINE & PELÍCULAS",Maxivisión TV
+https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
+#EXTINF:-1 tvg-id="MBCBollywood.ae@SD" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="02. 🎬 CINE & PELÍCULAS",MBC Bollywood
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-1 tvg-id="MBCDramaUSA.us@SD" tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="02. 🎬 CINE & PELÍCULAS",MBC Drama USA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
+#EXTINF:-1 tvg-id="MBCPlusDrama.sa@SD" tvg-logo="https://i.imgur.com/lxWdjXG.png" group-title="02. 🎬 CINE & PELÍCULAS",MBC+ Drama
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
+#EXTINF:-1 tvg-id="MegaCineTV.us@SD" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="02. 🎬 CINE & PELÍCULAS",Mega Cine TV
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
+#EXTINF:-1 tvg-id="MetaFilmTV.ir@SD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/meta-film-tv.png" group-title="02. 🎬 CINE & PELÍCULAS",Meta Film TV
+https://metafilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="MissionTV.us@SD" tvg-logo="https://i.imgur.com/Hb38BNo.png" group-title="02. 🎬 CINE & PELÍCULAS",Mission TV
+https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
+#EXTINF:-1 tvg-id="Moviedome.us@Austria" tvg-logo="https://i.imgur.com/8c54ycg.png" group-title="02. 🎬 CINE & PELÍCULAS",MOVIEDOME
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/615c1e5ce3039400070a0547/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7524-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9855fa27-eb7c-4e5a-852e-4c439515c25d
+#EXTINF:-1 tvg-id="MoviesforGamers.us@SD" tvg-logo="https://i.imgur.com/aqjzEkb.png" group-title="02. 🎬 CINE & PELÍCULAS",Movies for Gamers
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6008ddf24ef92b00079d61cf/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=df2515d1-b943-492a-9b0f-e1d6db00001d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Op920qA.png" tvg-id="SamsungMovieSphere.us@SD" tvg-logo="" group-title="02. 🎬 CINE & PELÍCULAS",MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MrBeanLiveAction.uk@SD" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" group-title="02. 🎬 CINE & PELÍCULAS",Mr Bean Live Action
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us@SD" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="02. 🎬 CINE & PELÍCULAS",MyTime Movie Network
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.br@SD" tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="02. 🎬 CINE & PELÍCULAS",MyTime Movie Network Brazil
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx@SD" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="02. 🎬 CINE & PELÍCULAS",MyTime Movie Network Mexico
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.es@SD" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="02. 🎬 CINE & PELÍCULAS",MyTime movie network Spain
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KCWXDT1.us@SD" tvg-logo="" group-title="02. 🎬 CINE & PELÍCULAS",myTV San Antonio TX
+http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KNSDDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png" group-title="02. 🎬 CINE & PELÍCULAS",NBC West
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
+#EXTINF:-1 tvg-id="NegociosTV.es@SD" tvg-logo="https://m.media-amazon.com/images/I/21HEgSJn2gL.png" group-title="02. 🎬 CINE & PELÍCULAS",Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1 tvg-id="NextHD.py@SD" tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="02. 🎬 CINE & PELÍCULAS",Next HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1 tvg-id="NihonEigaSenmonChannel.jp@SD" tvg-logo="https://i.imgur.com/B2wzA67.png" group-title="02. 🎬 CINE & PELÍCULAS",Nihon Eiga Senmon
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+#EXTINF:-1 tvg-id="ParamountMovieChannel.us@SD" tvg-logo="https://i.imgur.com/sj5h9bl.png" group-title="02. 🎬 CINE & PELÍCULAS",Paramount Movie Channel
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=00249d5f-c4b0-4941-b1d8-c4c41be16074
+#EXTINF:-1 tvg-id="ParamountPlusPicks.us@SD" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" group-title="02. 🎬 CINE & PELÍCULAS",Paramount+ Picks
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=13da203a-06be-4598-afdd-d3a28e224a91
+#EXTINF:-1 tvg-id="PayamJavanTV.us@SD" tvg-logo="https://i.imgur.com/GYfsHh9.png" group-title="02. 🎬 CINE & PELÍCULAS",Payam Javan TV
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PayameAfghanTV.us@SD" tvg-logo="https://i.imgur.com/t9wYYY9.png" group-title="02. 🎬 CINE & PELÍCULAS",Payam-e-Afghan TV
+https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
+#EXTINF:-1 tvg-id="PersianaCinema.fr@SD" tvg-logo="https://i.imgur.com/hgIro9r.png" group-title="02. 🎬 CINE & PELÍCULAS",Persiana Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaFamily.fr@SD" tvg-logo="https://i.imgur.com/lMZsuWi.png" group-title="02. 🎬 CINE & PELÍCULAS",Persiana Family
+https://familyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaIranian.fr@SD" tvg-logo="https://i.imgur.com/vqrrpBi.png" group-title="02. 🎬 CINE & PELÍCULAS",Persiana Iranian
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaKorea.fr@SD" tvg-logo="https://i.imgur.com/si2ZnIA.png" group-title="02. 🎬 CINE & PELÍCULAS",Persiana Korea
+https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaPlus.fr@SD" tvg-logo="https://i.imgur.com/0xttibX.png" group-title="02. 🎬 CINE & PELÍCULAS",Persiana Plus
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Pitaara.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LOGO_HD/image.png" group-title="02. 🎬 CINE & PELÍCULAS",Pitaara
+https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Action" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Action
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d5381ba-eca6-11ee-88af-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=32f9d3d2-7b34-4d4f-985e-2f6f948982ee&userId=&serverSideAds=true
+#EXTINF:-1 tvg-name="Pluto TV Cine" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/featuredImage.jpg" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Cine
+https://stitcher.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&serverSideAds=true
+#EXTINF:-1 tvg-id="PlutoTVCineAccion.us@US" tvg-logo="https://i.imgur.com/PXhCzXn.png" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Cine Accion
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=
+#EXTINF:-1 tvg-id="PlutoTVCineClassicos.us@Brazil" tvg-logo="https://i.imgur.com/N3UYHFS.png" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Cine Clássicos
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=41fd47ca-2c71-405a-adaa-d0d2aea5eaa6
+#EXTINF:-1 tvg-name="Pluto TV Cine Comedia" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/featuredImage.jpg" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Cine Comedia
+https://stitcher.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&serverSideAds=true
+#EXTINF:-1 tvg-name="Pluto TV Cine Drama" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/featuredImage.jpg" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Cine Drama
+https://stitcher.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&serverSideAds=true
+#EXTINF:-1 tvg-name="Pluto TV Cine Estelar" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/featuredImage.jpg" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Cine Estelar
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&serverSideAds=true
+#EXTINF:-1 tvg-id="PlutoTVCineEstelar.us@SpainPlus" tvg-logo="https://i.imgur.com/v3BO4nW.png" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Cine Estelar Spain+
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f59f50cc36a94000749fd3f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-name="Pluto TV Cine Familia" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/featuredImage.jpg" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Cine Familia
+https://stitcher.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&serverSideAds=true
+#EXTINF:-1 tvg-name="Pluto TV Cine Romance" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/featuredImage.jpg" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Cine Romance
+https://stitcher.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&serverSideAds=true
+#EXTINF:-1 tvg-id="PlutoTVCineSucessos.us@Brazil" tvg-logo="https://i.imgur.com/Tq0SMcl.png" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Cine Sucessos
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=5b0ea2a0-aa57-4e8a-9e9d-7c9eae8a5dba
+#EXTINF:-1 tvg-name="Pluto TV Cine Suspenso" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/featuredImage.jpg" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Cine Suspenso
+https://stitcher.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&serverSideAds=true
+#EXTINF:-1 tvg-id="CineTerror.us@Brazil" tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Cine Terror
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=873df2ad-c8e7-4e50-a6a1-518ad0d9dd64
+#EXTINF:-1 tvg-id="PlutoTVCrimeDrama.us@SD" tvg-logo="https://i.imgur.com/9j1njE3.png" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Crime Drama
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a6a7a00c7ff50008cba07b/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=07998d5d-dd4a-4bcc-84be-58dcbcec76b7&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=b7d550b5-21d5-4f89-a7ba-4b93ec034fa4
+#EXTINF:-1 tvg-name="Pluto TV Crime Movies" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f4d8594eb979c0007706de7/colorLogoPNG.png" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Crime Movies
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538b2e-eca6-11ee-8295-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6989125c-7089-43e1-9304-ef10eb566a21&userId=&serverSideAds=true
+#EXTINF:-1 tvg-name="Pluto TV Cult Films" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Cult Films
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d5394de-eca6-11ee-8d7d-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f59cbef1-7fb7-4dec-938d-36a5d7597ebf&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="PlutoTVDrama.us@UK" tvg-logo="https://i.imgur.com/PvhbHTZ.png" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Drama
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ddf91149880d60009d35d27/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=07998d5d-dd4a-4bcc-84be-58dcbcec76b7&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=6c705165-e578-4fb4-9ce9-95abd33f1dad
+#EXTINF:-1 tvg-id="PlutoTVEstrellasdeAccion.us@SD" tvg-logo="https://i.imgur.com/GVOYX4L.png" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Estrellas de Accion
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22351-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=988908ef-9cb1-4bfd-9346-d817932e3a37&userId=
+#EXTINF:-1 tvg-id="PlutoTVFiccaoCientifica.us@Brazil" tvg-logo="https://i.imgur.com/JVEfXbi.png" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Ficção Científica
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=094e08b2-d88d-4ab9-bd5b-8a4a243d6b7a
+#EXTINF:-1 tvg-id="PlutoTVFilmesAcao.us@Brazil" tvg-logo="https://i.imgur.com/HkCV9cQ.png" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Filmes Ação
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=a522cc45-be53-4c25-879b-bc2ccfea54af
+#EXTINF:-1 tvg-id="PlutoTVFilmesNacionais.us@Brazil" tvg-logo="https://i.imgur.com/9QTzDJG.png" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Filmes Nacionais
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=dc2369fa-ca7d-4fd9-be7a-9b6f431f4301
+#EXTINF:-1 tvg-id="PlutoTVHorror.us@Austria" tvg-logo="https://i.imgur.com/k6qttca.png" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Horror
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f4b88157cf00075c22db/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1fada1-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=98b1a14f-8335-48c9-a8f3-2e1926d24a7e
+#EXTINF:-1 tvg-id="PlutoTVKultfilme.us@Austria" tvg-logo="https://i.imgur.com/RJhxl8t.png" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Kultfilme
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dde47b63585b500099f74ec/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1fd4b0-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=03130bd3-7919-4831-bc2e-4f5c3b202f88
+#EXTINF:-1 tvg-id="PlutoTVMovies.us@Austria" tvg-logo="https://i.imgur.com/XzAbXAn.png" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Movies
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1fd4b4-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c0b9dcc7-8579-47a9-a718-88e7ec066b8a
+#EXTINF:-1 tvg-name="Pluto TV Reaction" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/617b37b361e0fd0008cfd8c5/colorLogoPNG.png" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Reaction
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/617b37b361e0fd0008cfd8c5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d538386-eca6-11ee-b8d2-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8bfa24c-7608-4afa-a260-12b498279878&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="PlutoTVRomance.us@US" tvg-logo="https://i.imgur.com/GJBxfyf.png" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Romance
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=3f47ea3a-236e-4f02-9869-73f2a935a845
+#EXTINF:-1 tvg-id="PlutoTVSciFi.us@Austria" tvg-logo="https://i.imgur.com/vSzd5m7.png" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Sci-Fi
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60ed498c4248a400077c0b9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b2022d0-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7622190c-0c5d-4225-bfd1-46b7e034e788
+#EXTINF:-1 tvg-id="PlutoTVSpotlight.us@SD" tvg-logo="https://i.imgur.com/UmuJkVB.png" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Spotlight
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=15984039-648b-44da-a5b8-9033ab148634
+#EXTINF:-1 tvg-id="PlutoTVStaffPicks.us@SD" tvg-logo="https://i.imgur.com/JzwO8IO.png" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Staff Picks
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d863b98b41000076cd061/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=92b6d794-a025-45ce-be8d-0e036f775fee
+#EXTINF:-1 tvg-id="PlutoTVTerror.us@SD" tvg-logo="https://i.imgur.com/eWtoHDM.png" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Terror
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=81995485-9446-403c-83d5-ac4026f520c0
+#EXTINF:-1 tvg-id="PlutoTVThrillers.us@Germany" tvg-logo="https://i.imgur.com/ULKvDN7.png" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Thriller
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e1efdbf90ba3e0009d99082/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=22b4e6dd-531a-4711-80b6-21424794304c
+#EXTINF:-1 tvg-id="PlutoTVThrillers.us@US" tvg-logo="https://i.imgur.com/ULKvDN7.png" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Thrillers
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=e0b656c0-b8e8-40ca-9465-cea7b98fee7a
+#EXTINF:-1 tvg-id="PlutoTVThrillers.us@Spain" tvg-logo="https://i.imgur.com/ULKvDN7.png" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Thrillers Spain
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId=
+#EXTINF:-1 tvg-id="PlutoTVWesterns.us@Austria" tvg-logo="https://i.imgur.com/biepi4A.png" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Western
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630dd3b2605f140007e002f5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b2049e2-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=59d31236-c94c-43d9-a034-2227dea980c8
+#EXTINF:-1 tvg-id="PlutoTVWesterns.us@UK" tvg-logo="https://i.imgur.com/biepi4A.png" group-title="02. 🎬 CINE & PELÍCULAS",Pluto TV Westerns
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d4bdb635ce813b38639e6a3/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=07998d5d-dd4a-4bcc-84be-58dcbcec76b7&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=407bdec3-5d0f-4629-a2b7-f4c9b9b2f460
+#EXTINF:-1 tvg-id="PowerMaxRadioTV.ar@SD" tvg-logo="https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg" group-title="02. 🎬 CINE & PELÍCULAS",Power Max Radio TV
+https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
+#EXTINF:-1 tvg-id="QVC.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/960px-QVC_logo_2019.svg.png" group-title="02. 🎬 CINE & PELÍCULAS",QVC Live
+https://a-cdn.klowdtv.com/live2/qvclive_720p/playlist.m3u8
+#EXTINF:-1 group-title="02. 🎬 CINE & PELÍCULAS" tvg-id="390" tvg-name="Radio Universal" tvg-logo="https://cdn.m3u.cl/logo/390_Radio_Universal.png",Radio Universal | CL
+https://videostream.chileservidores.com:8081/universal/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="02. 🎬 CINE & PELÍCULAS",Rakuten Top Movies UK
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Finland" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="02. 🎬 CINE & PELÍCULAS",Rakuten TV Action Movies Finland
+https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Germany" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="02. 🎬 CINE & PELÍCULAS",Rakuten TV Action Movies Germany
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Italy" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="02. 🎬 CINE & PELÍCULAS",Rakuten TV Action Movies Italy
+https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Spain" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="02. 🎬 CINE & PELÍCULAS",Rakuten TV Action Movies Spain
+https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="02. 🎬 CINE & PELÍCULAS",Rakuten TV Action Movies UK
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Finland" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="02. 🎬 CINE & PELÍCULAS",Rakuten TV Comedy Movies Finland
+https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Germany" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="02. 🎬 CINE & PELÍCULAS",Rakuten TV Comedy Movies Germany
+https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Italy" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="02. 🎬 CINE & PELÍCULAS",Rakuten TV Comedy Movies Italy
+https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Spain" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="02. 🎬 CINE & PELÍCULAS",Rakuten TV Comedy Movies Spain
+https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="02. 🎬 CINE & PELÍCULAS",Rakuten TV Comedy Movies UK
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@Finland" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="02. 🎬 CINE & PELÍCULAS",Rakuten TV Drama Movies Finland
+https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@Germany" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="02. 🎬 CINE & PELÍCULAS",Rakuten TV Drama Movies Germany
+https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@Italy" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="02. 🎬 CINE & PELÍCULAS",Rakuten TV Drama Movies Italy
+https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@Spain" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="02. 🎬 CINE & PELÍCULAS",Rakuten TV Drama Movies Spain
+https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="02. 🎬 CINE & PELÍCULAS",Rakuten TV Drama Movies UK
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@Finland" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="02. 🎬 CINE & PELÍCULAS",Rakuten TV Family Movies Finland
+https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@Germany" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="02. 🎬 CINE & PELÍCULAS",Rakuten TV Family Movies Germany
+https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@Italy" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="02. 🎬 CINE & PELÍCULAS",Rakuten TV Family Movies Italy
+https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@Spain" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="02. 🎬 CINE & PELÍCULAS",Rakuten TV Family Movies Spain
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="02. 🎬 CINE & PELÍCULAS",Rakuten TV Family Movies UK
+https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVNordicFilms.es@Finland" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/ff79e878-3eea-45fc-b0cd-55d6acce9b18-width200-quality90.jpeg" group-title="02. 🎬 CINE & PELÍCULAS",Rakuten TV Nordic Films
+https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@Finland" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="02. 🎬 CINE & PELÍCULAS",Rakuten TV Top Movies Finland
+https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@Germany" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="02. 🎬 CINE & PELÍCULAS",Rakuten TV Top Movies Germany
+https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@Italy" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="02. 🎬 CINE & PELÍCULAS",Rakuten TV Top Movies Italy
+https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@Spain" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="02. 🎬 CINE & PELÍCULAS",Rakuten TV Top Movies Spain
+https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
+#EXTINF:-1 tvg-id="RakutenViki.es@Spain" tvg-logo="https://i.imgur.com/pbyd1g2.png" group-title="02. 🎬 CINE & PELÍCULAS",Rakuten Viki
+https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedApple21.us@SD" tvg-logo="https://i.imgur.com/ICcQUCH.png" group-title="02. 🎬 CINE & PELÍCULAS",Red Apple 21
+https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
+#EXTINF:-1 tvg-name="RT العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" tvg-id="RTArabic.ru" group-title="02. 🎬 CINE & PELÍCULAS",RT العربية
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-id="RuntimeEspanol.us@SD" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="02. 🎬 CINE & PELÍCULAS",Runtime Espanol
+https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
+#EXTINF:-1 tvg-id="CityTV20SantaMonica.us@SD" tvg-logo="https://i.imgur.com/NY4fOLy.png" group-title="02. 🎬 CINE & PELÍCULAS",Santa Monica City TV 20
+https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8
+#EXTINF:-1 tvg-id="Shalom.in@Global" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHALOM_TV/images/LOGO_HD/image.png" group-title="02. 🎬 CINE & PELÍCULAS",Shalom Global
+https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="ShemarooJosh.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHUMBAK_TV/images/LOGO_HD/image.png" group-title="02. 🎬 CINE & PELÍCULAS",Shemaroo Josh
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky News العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/512px-Sky_News_logo.svg.png" tvg-id="SkyNewsArabia.ae" group-title="02. 🎬 CINE & PELÍCULAS",Sky News العربية
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-id="SL1.ir@SD" tvg-logo="https://i.imgur.com/n9cuM2W.jpg" group-title="02. 🎬 CINE & PELÍCULAS",SL 1
+https://slonehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="SL2.ir@SD" tvg-logo="https://i.imgur.com/BVuUx5R.jpg" group-title="02. 🎬 CINE & PELÍCULAS",SL 2
+https://sltwohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="SomosTV.ve@SD" tvg-logo="https://i.imgur.com/jOroeJZ.png" group-title="02. 🎬 CINE & PELÍCULAS",Somos TV
+https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
+#EXTINF:-1 group-title="02. 🎬 CINE & PELÍCULAS",-1 tvg-id="1438" tvg-name="Somos TV" tvg-logo="https://cdn.m3u.cl/logo/1438_Somos_TV.png",Somos TV | VE
+https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="SonyOneFavoris.fr@HD" tvg-logo="https://i.imgur.com/RO4AM4b.png" group-title="02. 🎬 CINE & PELÍCULAS",Sony One Favoris
+https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneHitsAction.fr@HD" tvg-logo="https://i.imgur.com/pXsZEsR.png" group-title="02. 🎬 CINE & PELÍCULAS",Sony One Hits Action
+https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneHitsComedie.fr@HD" tvg-logo="https://i.imgur.com/8sHuxxS.png" group-title="02. 🎬 CINE & PELÍCULAS",Sony One Hits Comedie
+https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-id="StarChannel.us@SD" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="02. 🎬 CINE & PELÍCULAS",Star Channel LA
+http://45.162.193.35/STAR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="StarChannelInternational.gr@HD" tvg-logo="https://i.imgur.com/6NUpxhr.png" group-title="02. 🎬 CINE & PELÍCULAS",STAR International
+https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
+#EXTINF:-1 tvg-id="SuriyanTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/suriyantvtamil.png" group-title="02. 🎬 CINE & PELÍCULAS",Suriyan TV
+https://stream.sscloud7.com/live/suriyantv/index.m3u8
+#EXTINF:-1 tvg-id="SwamijiTVAmerican.at@SD" tvg-logo="https://i.imgur.com/nrLcuzs.png" group-title="02. 🎬 CINE & PELÍCULAS",Swamiji TV American
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="02. 🎬 CINE & PELÍCULAS",T13 en vivo
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png" tvg-id="TeleSUR.ve" group-title="02. 🎬 CINE & PELÍCULAS",Telesur
+https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/ve/telesur.m3u8
+#EXTINF:-1 tvg-id="ThalaaTV.in@HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png" group-title="02. 🎬 CINE & PELÍCULAS",Thalaa TV
+https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
+#EXTINF:-1 tvg-id="TheNowNetwork.us@SD" tvg-logo="https://i.imgur.com/Wp6d0F8.png" group-title="02. 🎬 CINE & PELÍCULAS",The Now Network
+https://mediaprod1.nowcast.cc:5443/LiveApp/streams/anZPy7eaVWLyDMZB1697488814699.m3u8
+#EXTINF:-1 tvg-id="TollyTV.in@HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aumnrs.png" group-title="02. 🎬 CINE & PELÍCULAS",Tolly TV
+https://streams2.sofast.tv/ptnr-yupptv/title-TOLLY-TV-TEL_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8
+#EXTINF:-1 tvg-id="TVLandDrama.us@SD" tvg-logo="https://i.imgur.com/y1rXIAS.png" group-title="02. 🎬 CINE & PELÍCULAS",TV Land Drama
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=27f50685-0112-4e54-b6c5-7ec071c9d5af
+#EXTINF:-1 tvg-id="TVPanou.ht@SD" tvg-logo="https://i.imgur.com/zee6sWn.png" group-title="02. 🎬 CINE & PELÍCULAS",TV Panou
+http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSeries.br@SD" tvg-logo="https://i.imgur.com/Ff5mj0o.png" group-title="02. 🎬 CINE & PELÍCULAS",TV Series 1 As Panteras
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUniversal.br@SD" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="02. 🎬 CINE & PELÍCULAS",TV Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUniversalEcuador.ec@SD" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="02. 🎬 CINE & PELÍCULAS",TV Universal Ecuador
+https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
+#EXTINF:-1 tvg-name="TV3Cat Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" tvg-id="TV3CAT.es" group-title="02. 🎬 CINE & PELÍCULAS",TV3Cat Ⓖ
+https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
+#EXTINF:-1 tvg-id="TVCARiBCinema.sx@SD" tvg-logo="https://i.imgur.com/fvGlwKo.png" group-title="02. 🎬 CINE & PELÍCULAS",TVCARiB Cinema
+https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8
+#EXTINF:-1 tvg-id="TVEStar.es@HD" tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="02. 🎬 CINE & PELÍCULAS",TVE Star HD
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
+#EXTINF:-1 tvg-id="TVSClassicMovies.us@SD" tvg-logo="https://i.imgur.com/st1xMsw.png" group-title="02. 🎬 CINE & PELÍCULAS",TVS Classic Movies
+https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 tvg-id="TVSDriveInMovie.us@SD" tvg-logo="https://i.imgur.com/OR9APjb.png" group-title="02. 🎬 CINE & PELÍCULAS",TVS Drive In Movie
+https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1 tvg-id="TVSMainstreet.us@SD" tvg-logo="https://i.imgur.com/N9nQpnP.png" group-title="02. 🎬 CINE & PELÍCULAS",TVS Mainstreet
+https://rpn.bozztv.com/gusa/gusa-tvsmainst/index.m3u8
+#EXTINF:-1 tvg-id="TVSNostalgiaMovies.us@SD" tvg-logo="https://i.imgur.com/w4fxiKi.png" group-title="02. 🎬 CINE & PELÍCULAS",TVS Nostalgia Movies
+https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 tvg-id="TVSTravelNetwork.us@SD" tvg-logo="https://i.imgur.com/vSFf5Ce.png" group-title="02. 🎬 CINE & PELÍCULAS",TVS Travel Network
+https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
+#EXTINF:-1 tvg-id="TVSWesternMovie.us@SD" tvg-logo="https://i.imgur.com/dwr98qb.png" group-title="02. 🎬 CINE & PELÍCULAS",TVS Western Movie
+https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" tvg-id="UCL.uy" group-title="02. 🎬 CINE & PELÍCULAS",UCL
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="UCTV.us@SD" tvg-logo="https://i.imgur.com/ehMz9T5.png" group-title="02. 🎬 CINE & PELÍCULAS",UCTV University of California
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="UCV Televisión" tvg-logo="https://i.imgur.com/2VL4Pts.png" tvg-id="UCVTV.cl" group-title="02. 🎬 CINE & PELÍCULAS",UCV Televisión
+https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VClassicTV.cl@SD" tvg-logo="https://i.imgur.com/WIACJSy.png" group-title="02. 🎬 CINE & PELÍCULAS",V Classic TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+#EXTINF:-1 tvg-id="VBSTV.us@SD" tvg-logo="https://i.imgur.com/OkslYzP.png" group-title="02. 🎬 CINE & PELÍCULAS",VBS TV
+https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="WeHoTV.us@SD" tvg-logo="https://i.imgur.com/p3L2vSL.png" group-title="02. 🎬 CINE & PELÍCULAS",West Hollywood WeHoTV
+https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8
+#EXTINF:-1 tvg-id="WLNGRadio.us@SD" tvg-logo="" group-title="02. 🎬 CINE & PELÍCULAS",WLNG Radio
+http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="WOWOWCinema.jp@SD" tvg-logo="https://i.imgur.com/Wx9fkCW.png" group-title="02. 🎬 CINE & PELÍCULAS",WOWOW Cinema
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+#EXTINF:-1 tvg-id="XtremaAccion.ar@SD" tvg-logo="https://i.imgur.com/z5NwizH.png" http-referrer="https://xtrematv.com/?p=1434" group-title="02. 🎬 CINE & PELÍCULAS",Xtrema Accion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaCineClasico.ar@SD" tvg-logo="https://i.imgur.com/j91M4Yf.png" http-referrer="https://xtrematv.com/?p=1460" group-title="02. 🎬 CINE & PELÍCULAS",Xtrema Cine Clasico
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaTerror.ar@SD" tvg-logo="https://i.imgur.com/FcaTUym.png" http-referrer="https://xtrematv.com/?p=1456" group-title="02. 🎬 CINE & PELÍCULAS",Xtrema Terror
+https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
+#EXTINF:-1 tvg-id="YoungHollywood.us@SD" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="02. 🎬 CINE & PELÍCULAS",Young Hollywood
+https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ZAZ.mx@SD" tvg-logo="" group-title="02. 🎬 CINE & PELÍCULAS",ZAZ
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+#EXTINF:-1 tvg-id="CineFriki.es@SD" tvg-logo="https://i.imgur.com/b3Ospym.png" group-title="02. 🎬 CINE & PELÍCULAS",Zylo Cine Friki
+https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
+#EXTINF:-1 tvg-id="CineNanar.fr@SD" tvg-logo="https://i.imgur.com/YnUZd3W.png" group-title="02. 🎬 CINE & PELÍCULAS",Zylo Ciné Nanar
+https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CineWestern.es@SD" tvg-logo="https://i.imgur.com/2UROzSc.png" group-title="02. 🎬 CINE & PELÍCULAS",Zylo Cine Western
+https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
+#EXTINF:-1 tvg-id="EmotionL.fr@SD" tvg-logo="https://i.imgur.com/MP34aaj.png" group-title="02. 🎬 CINE & PELÍCULAS",Zylo Emotion' L
+https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-id="ScreamIN.fr@SD" tvg-logo="https://i.imgur.com/tGmKbil.png" group-title="02. 🎬 CINE & PELÍCULAS",Zylo ScreamIN
+https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-id="Domkino.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/512px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" group-title="02. 🎬 CINE & PELÍCULAS",Дом Кино
+https://streaming.thestream.cyou/live/44.m3u8
+#EXTINF:-1 tvg-id="DomkinoPremium.ru@SD" tvg-logo="https://i.imgur.com/rJpQtvK.png" group-title="02. 🎬 CINE & PELÍCULAS",Дом Кино Премиум HD
+http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
+#EXTINF:-1 tvg-id="Evrokino.ru@SD" tvg-logo="https://i.imgur.com/8LPtPf6.png" group-title="02. 🎬 CINE & PELÍCULAS",Еврокино
+http://31.148.48.15/Evrokino/index.m3u8
+#EXTINF:-1 tvg-id="IllusionPlus.ru@SD" tvg-logo="https://i.imgur.com/9GvuHQ5.png" group-title="02. 🎬 CINE & PELÍCULAS",Иллюзион+
+http://31.148.48.15/Illusion_plus/index.m3u8
+#EXTINF:-1 tvg-id="Kino1.ru@International" tvg-logo="https://i.imgur.com/zsCPLs4.png" group-title="02. 🎬 CINE & PELÍCULAS",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id="Kinopokaz.ru@SD" tvg-logo="https://i.imgur.com/nNjMyAq.png" group-title="02. 🎬 CINE & PELÍCULAS",Кинопоказ
+http://31.148.48.15/Kinopokaz/index.m3u8
+#EXTINF:-1 tvg-id="KinoTV.ru@SD" tvg-logo="https://i.imgur.com/sMpamNO.png" group-title="02. 🎬 CINE & PELÍCULAS",КИНОТВ
+https://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 tvg-id="RusskiyDetektiv.ru@SD" tvg-logo="https://i.imgur.com/H3qhN8S.png" group-title="02. 🎬 CINE & PELÍCULAS",Русский Детектив
+http://31.148.48.15/Russkiy_Detektiv/index.m3u8
+#EXTINF:-1 tvg-id="Russkiyroman.ru@SD" tvg-logo="https://i.imgur.com/cQN0P2B.png" group-title="02. 🎬 CINE & PELÍCULAS",Русский Роман
+http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
+#EXTINF:-1 tvg-id="FeniksplusKino.ru@SD" tvg-logo="https://i.imgur.com/S9OPMLE.png" group-title="02. 🎬 CINE & PELÍCULAS",Феникс плюс Кино
+http://31.148.48.15/Feniks_plus_kino/index.m3u8
 #EXTINF:-1 tvg-id="30AGolfKingdom.us@SD" tvg-logo="https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg" group-title="03. ⚽ DEPORTES",30A Golf Kingdom
 https://30a-tv.com/feeds/vidaa/golf.m3u8
 #EXTINF:-1 tvg-id="ACCDigitalNetwork.us@SD" tvg-logo="https://i.imgur.com/V6Kaqha.png" group-title="03. ⚽ DEPORTES",ACCDN
