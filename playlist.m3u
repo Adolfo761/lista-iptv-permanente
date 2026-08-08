@@ -93,8 +93,8 @@ https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
 #EXTINF:-1 tvg-id="CieloTV.do@SD" tvg-logo="https://i.imgur.com/2PNw6BA.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Cielo TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yt7JJrn.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",CineLatino
-http://45.228.235.116:8000/play/a0iz/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yt7JJrn.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Cinelatino
+http://45.162.193.35/CINELATINO_HD/index.m3u8
 #EXTINF:-1 tvg-id="CiracuTV.ec@SD" tvg-logo="https://i.imgur.com/mkf2TJ6.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Ciracu TV
 https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
 #EXTINF:-1 tvg-id="ColimdoTV.do@SD" tvg-logo="https://i.imgur.com/ZeUgLCa.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",ColimdoT TV
@@ -600,7 +600,9 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-id="GoldStar.ir@SD" tvg-logo="" group-title="02. 🎬 CINE & PELÍCULAS",Gold Star
 https://moviethls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Golden.mx@SD" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="02. 🎬 CINE & PELÍCULAS",Golden
-http://38.19.41.46:8081/MTV/index.m3u8
+http://209.14.115.253:8081/GOLDEN/index.m3u8
+#EXTINF:-1 tvg-id="Space.us@SD" tvg-logo="https://i.imgur.com/39J2hRk.png" group-title="02. 🎬 CINE & PELÍCULAS",SPACE
+http://181.119.66.28:8081/SPACE/index.m3u8
 #EXTINF:-1 tvg-id="GCOtv.us@SD" tvg-logo="https://i.imgur.com/zHBR2zR.png" group-title="02. 🎬 CINE & PELÍCULAS",Golden Community Television
 https://reflect-golden-co.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge.mx@SD" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="02. 🎬 CINE & PELÍCULAS",Golden Edge
