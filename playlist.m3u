@@ -24,8 +24,10 @@ https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8
 #EXTINF:-1 tvg-id="AE.us@SD" tvg-logo="https://i.imgur.com/G5y1oKp.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",A&E
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 (Linux; Android)
 http://45.70.168.162:1503/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.us@SD" tvg-logo="https://i.imgur.com/T0bL2lH.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Investigation ID
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 (Linux; Android)
 http://179.1.87.75:8098/play/a0hv/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.us@SD" tvg-logo="https://i.imgur.com/7zYIbU1.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Animal Planet
 http://181.78.8.199:8000/play/a0by/index.m3u8
