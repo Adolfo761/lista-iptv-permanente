@@ -359,6 +359,17 @@ https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8
 http://45.228.234.60:8880/play/a05f/index.m3u8
 #EXTINF:-1 tvg-id="TVN.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4037-294x165-FFFFFF.jpg" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",TVN (Dominican Republic) [Not 24/7]
 https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8
+#EXTINF:-1 tvg-id="Antena21.do@SD" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Antena 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://d1ypfac91iuc9g.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-id="Antena7.do@SD" tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Antena 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://d3gie3ig6argu.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-id="colorvision.do@sd" tvg-logo="https://cdn.m3u.cl/logo/762_Color_Vision.jpg" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Color Visión 9
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 (Linux; Android)
+https://cdn4.wind.do/streams/colorvision/colorvision_master.m3u8
+#EXTINF:-1 tvg-id="RTVDCanal4.do@SD" tvg-logo="https://i.imgur.com/uU01KHz.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",RTVD Canal 4 RD
+https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-name="13 Prime" tvg-logo="https://i.imgur.com/YwDFNxs.png" tvg-id="13P.cl" group-title="02. 🎬 CINE & PELÍCULAS",13 Prime
 https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
 #EXTINF:-1 tvg-name="13 Realities" tvg-logo="https://i.imgur.com/p1Qpljw.png" tvg-id="13Realities.cl" group-title="02. 🎬 CINE & PELÍCULAS",13 Realities
