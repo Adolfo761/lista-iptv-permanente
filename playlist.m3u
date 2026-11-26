@@ -259,7 +259,7 @@ https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
 #EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/index_pc.php
 https://live2.telemicro.com.do/live/55/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3pUik3b.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Telemundo Internacional
-http://190.60.46.156:8089/TELEMUNDO/index.m3u8
+http://190.83.15.112:8000/play/a0ax/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3pUik3b.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Telemundo USA (Uplynk)
 http://154.12.110.160:8100/play/a076/index.m3u8
 #EXTINF:-1 tvg-id="Telenord8.do@SD" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Telenord 8
