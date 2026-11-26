@@ -3712,7 +3712,7 @@ https://nbculocallive.akamaized.net/hls/live/2037094/mcallen/stream1/master.m3u8
 #EXTINF:-1 tvg-name="Telemundo Miami" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Telemundo_2018.svg/200px-Telemundo_2018.svg.png" group-title="10. 🇺🇸 USA LATINO",Telemundo Miami
 https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream6/master.m3u8
 #EXTINF:-1 tvg-name="Telemundo New York" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Telemundo_2018.svg/200px-Telemundo_2018.svg.png" group-title="10. 🇺🇸 USA LATINO",Telemundo New York
-https://nbculocallive.akamaized.net/hls/live/2037083/newyork/stream7/master.m3u8
+http://154.12.110.160:8100/play/a076/index.m3u8
 #EXTINF:-1 tvg-name="Telemundo Orlando" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Telemundo_2018.svg/200px-Telemundo_2018.svg.png" group-title="10. 🇺🇸 USA LATINO",Telemundo Orlando
 https://nbculocallive.akamaized.net/hls/live/2037602/orlando/stream1/master.m3u8
 #EXTINF:-1 tvg-name="Telemundo Phoenix" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Telemundo_2018.svg/200px-Telemundo_2018.svg.png" group-title="10. 🇺🇸 USA LATINO",Telemundo Phoenix
