@@ -3843,6 +3843,8 @@ http://168.228.44.241:9997/play/a09e/index.m3u8
 http://15.204.246.24:8080/UniversalHD/index.m3u8
 #EXTINF:-1 tvg-id="Univision.us@WLTVDT" tvg-logo="https://i.imgur.com/Sr3EoK5.png" group-title="10. 🇺🇸 USA LATINO",Univision WLTV-DT
 http://168.228.44.241:9997/play/a09d/index.m3u8
+#EXTINF:-1 tvg-id="Univision.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="10. 🇺🇸 USA LATINO",Univision New York
+https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast.m3u8
 #EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="10. 🇺🇸 USA LATINO",USA Network Latin America
 http://138.121.15.230:9002/USA/index.m3u8
 #EXTINF:-1 tvg-id="5tv.ar@SD" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="11. 🌎 LATINOAMÉRICA",5TV Corrientes
