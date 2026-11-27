@@ -68,6 +68,8 @@ https://host.streamingnation.live:3940/live/caobatvlive.m3u8
 #EXTINF:-1 tvg-id="CascaraTV.do@SD" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Cascara TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
+#EXTINF:-1 tvg-id="CDNDeportes.do@SD" tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",CDN Deportes
+https://hls.tvabierta.net/hls/036.m3u8
 #EXTINF:-1 tvg-id="cdn.do@sd" tvg-logo="https://dominicanchannels.com/wp-content/uploads/cdn-noticias.png" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",CDN Noticias
 http://187.245.231.226:8000/play/a0ss/index.m3u8
 #EXTINF:-1 tvg-id="CenovisionHD.do@HD" tvg-logo="https://imgur.com/ShPaOvn.jpg" group-title="01. 🇩🇴 REPUBLICA DOMINICANA",Cenovision HD
